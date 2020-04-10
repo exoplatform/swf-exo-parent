@@ -2,7 +2,7 @@
 
 ##################################
 export GIT_TOKEN="$1"
-export EXO_ORGANIZATIONS="meeds-io exodev exo-addons exoplatform exo-samples exo-docker"
+export EXO_ORGANIZATIONS="exodev exo-addons exoplatform exo-samples exo-docker"
 ##################################
 
 export GIT_REST_URI="https://api.github.com/orgs/"
@@ -14,7 +14,7 @@ get_org_repositories() {
     [ -z "$GIT_TOKEN" ] && REPO_URL="${REPO_URL}?page=" || REPO_URL="${REPO_URL}&page="
     local COUNTER=1
     while true; do
-        local result=$(wget -qO- ${REPO_URL}${COUNTER} | jq '.[]| select(.archived==false and .disabled==false)| .ssh_url' | xargs)
+        local result=$(wget -qO- ${REPO_URL}${COUNTER} | jq '.[]| select(.disabled==false)| .ssh_url' | xargs)
         [ -z "$result" ] && break || SSH_MODULES="$SSH_MODULES $result"
         ((COUNTER++))
     done

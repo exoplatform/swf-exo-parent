@@ -1,81 +1,3 @@
-[submodule "Meeds-io/gatein-portal"]
-	path = Meeds-io/gatein-portal
-	url = git@github.com:Meeds-io/gatein-portal.git
-[submodule "Meeds-io/cf-parent"]
-	path = Meeds-io/cf-parent
-	url = git@github.com:Meeds-io/cf-parent.git
-[submodule "Meeds-io/addons-manager"]
-	path = Meeds-io/addons-manager
-	url = git@github.com:Meeds-io/addons-manager.git
-[submodule "Meeds-io/social"]
-	path = Meeds-io/social
-	url = git@github.com:Meeds-io/social.git
-[submodule "Meeds-io/commons"]
-	path = Meeds-io/commons
-	url = git@github.com:Meeds-io/commons.git
-[submodule "Meeds-io/push-notifications"]
-	path = Meeds-io/push-notifications
-	url = git@github.com:Meeds-io/push-notifications.git
-[submodule "Meeds-io/wallet"]
-	path = Meeds-io/wallet
-	url = git@github.com:Meeds-io/wallet.git
-[submodule "Meeds-io/perk-store"]
-	path = Meeds-io/perk-store
-	url = git@github.com:Meeds-io/perk-store.git
-[submodule "Meeds-io/gamification"]
-	path = Meeds-io/gamification
-	url = git@github.com:Meeds-io/gamification.git
-[submodule "Meeds-io/platform-ui"]
-	path = Meeds-io/platform-ui
-	url = git@github.com:Meeds-io/platform-ui.git
-[submodule "Meeds-io/app-center"]
-	path = Meeds-io/app-center
-	url = git@github.com:Meeds-io/app-center.git
-[submodule "Meeds-io/maven-depmgt-pom"]
-	path = Meeds-io/maven-depmgt-pom
-	url = git@github.com:Meeds-io/maven-depmgt-pom.git
-[submodule "Meeds-io/gatein-dep"]
-	path = Meeds-io/gatein-dep
-	url = git@github.com:Meeds-io/gatein-dep.git
-[submodule "Meeds-io/kudos"]
-	path = Meeds-io/kudos
-	url = git@github.com:Meeds-io/kudos.git
-[submodule "Meeds-io/exo-es-embedded"]
-	path = Meeds-io/exo-es-embedded
-	url = git@github.com:Meeds-io/exo-es-embedded.git
-[submodule "Meeds-io/gatein-sso"]
-	path = Meeds-io/gatein-sso
-	url = git@github.com:Meeds-io/gatein-sso.git
-[submodule "Meeds-io/gatein-pc"]
-	path = Meeds-io/gatein-pc
-	url = git@github.com:Meeds-io/gatein-pc.git
-[submodule "Meeds-io/ws"]
-	path = Meeds-io/ws
-	url = git@github.com:Meeds-io/ws.git
-[submodule "Meeds-io/core"]
-	path = Meeds-io/core
-	url = git@github.com:Meeds-io/core.git
-[submodule "Meeds-io/kernel"]
-	path = Meeds-io/kernel
-	url = git@github.com:Meeds-io/kernel.git
-[submodule "Meeds-io/gatein-wci"]
-	path = Meeds-io/gatein-wci
-	url = git@github.com:Meeds-io/gatein-wci.git
-[submodule "Meeds-io/addons-parent-pom"]
-	path = Meeds-io/addons-parent-pom
-	url = git@github.com:Meeds-io/addons-parent-pom.git
-[submodule "Meeds-io/ert-contract"]
-	path = Meeds-io/ert-contract
-	url = git@github.com:Meeds-io/ert-contract.git
-[submodule "Meeds-io/meeds"]
-	path = Meeds-io/meeds
-	url = git@github.com:Meeds-io/meeds.git
-[submodule "Meeds-io/maven-parent-pom"]
-	path = Meeds-io/maven-parent-pom
-	url = git@github.com:Meeds-io/maven-parent-pom.git
-[submodule "Meeds-io/meeds-docker"]
-	path = Meeds-io/meeds-docker
-	url = git@github.com:Meeds-io/meeds-docker.git
 [submodule "exodev/exogtn"]
 	path = exodev/exogtn
 	url = git@github.com:exodev/exogtn.git
@@ -1363,3 +1285,57 @@
 [submodule "exoplatform/swf-exo-parent"]
 	path = exoplatform/swf-exo-parent
 	url = git@github.com:exoplatform/swf-exo-parent.git
+[submodule "exodev/commons"]
+	path = exodev/commons
+	url = git@github.com:exodev/commons.git
+[submodule "exodev/core"]
+	path = exodev/core
+	url = git@github.com:exodev/core.git
+[submodule "exodev/ws"]
+	path = exodev/ws
+	url = git@github.com:exodev/ws.git
+[submodule "exodev/kernel"]
+	path = exodev/kernel
+	url = git@github.com:exodev/kernel.git
+[submodule "exodev/platform"]
+	path = exodev/platform
+	url = git@github.com:exodev/platform.git
+[submodule "exodev/social"]
+	path = exodev/social
+	url = git@github.com:exodev/social.git
+[submodule "exodev/integration"]
+	path = exodev/integration
+	url = git@github.com:exodev/integration.git
+[submodule "exodev/platform-ui"]
+	path = exodev/platform-ui
+	url = git@github.com:exodev/platform-ui.git
+[submodule "exodev/gatein-portal"]
+	path = exodev/gatein-portal
+	url = git@github.com:exodev/gatein-portal.git
+[submodule "exodev/gatein-sso"]
+	path = exodev/gatein-sso
+	url = git@github.com:exodev/gatein-sso.git
+[submodule "exodev/gatein-wci"]
+	path = exodev/gatein-wci
+	url = git@github.com:exodev/gatein-wci.git
+[submodule "exodev/gatein-pc"]
+	path = exodev/gatein-pc
+	url = git@github.com:exodev/gatein-pc.git
+[submodule "exo-addons/wallet"]
+	path = exo-addons/wallet
+	url = git@github.com:exo-addons/wallet.git
+[submodule "exo-addons/perk-store"]
+	path = exo-addons/perk-store
+	url = git@github.com:exo-addons/perk-store.git
+[submodule "exo-addons/kudos"]
+	path = exo-addons/kudos
+	url = git@github.com:exo-addons/kudos.git
+[submodule "exo-addons/gamification"]
+	path = exo-addons/gamification
+	url = git@github.com:exo-addons/gamification.git
+[submodule "exoplatform/platform-private-trial-distributions"]
+	path = exoplatform/platform-private-trial-distributions
+	url = git@github.com:exoplatform/platform-private-trial-distributions.git
+[submodule "exoplatform/ert-contract"]
+	path = exoplatform/ert-contract
+	url = git@github.com:exoplatform/ert-contract.git
