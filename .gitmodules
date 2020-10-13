@@ -1339,3 +1339,27 @@
 [submodule "exoplatform/ert-contract"]
 	path = exoplatform/ert-contract
 	url = git@github.com:exoplatform/ert-contract.git
+[submodule "exo-addons/time-tracker"]
+	path = exo-addons/time-tracker
+	url = git@github.com:exo-addons/time-tracker.git
+[submodule "exo-addons/jitsi-call"]
+	path = exo-addons/jitsi-call
+	url = git@github.com:exo-addons/jitsi-call.git
+[submodule "exoplatform/cp-naftogaz"]
+	path = exoplatform/cp-naftogaz
+	url = git@github.com:exoplatform/cp-naftogaz.git
+[submodule "exoplatform/cp-naftogaz-android"]
+	path = exoplatform/cp-naftogaz-android
+	url = git@github.com:exoplatform/cp-naftogaz-android.git
+[submodule "exoplatform/cp-naftogaz-ios"]
+	path = exoplatform/cp-naftogaz-ios
+	url = git@github.com:exoplatform/cp-naftogaz-ios.git
+[submodule "exoplatform/cp-naftogaz-ios-certificates"]
+	path = exoplatform/cp-naftogaz-ios-certificates
+	url = git@github.com:exoplatform/cp-naftogaz-ios-certificates.git
+[submodule "exoplatform/agenda"]
+	path = exoplatform/agenda
+	url = git@github.com:exoplatform/agenda.git
+[submodule "exo-docker/jitsi-call"]
+	path = exo-docker/jitsi-call
+	url = git@github.com:exo-docker/jitsi-call.git
