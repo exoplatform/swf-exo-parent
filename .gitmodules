@@ -1,0 +1,1257 @@
+[submodule "Meeds-io/gatein-portal"]
+	path = Meeds-io/gatein-portal
+	url = git@github.com:Meeds-io/gatein-portal.git
+[submodule "Meeds-io/cf-parent"]
+	path = Meeds-io/cf-parent
+	url = git@github.com:Meeds-io/cf-parent.git
+[submodule "Meeds-io/addons-manager"]
+	path = Meeds-io/addons-manager
+	url = git@github.com:Meeds-io/addons-manager.git
+[submodule "Meeds-io/social"]
+	path = Meeds-io/social
+	url = git@github.com:Meeds-io/social.git
+[submodule "Meeds-io/commons"]
+	path = Meeds-io/commons
+	url = git@github.com:Meeds-io/commons.git
+[submodule "Meeds-io/push-notifications"]
+	path = Meeds-io/push-notifications
+	url = git@github.com:Meeds-io/push-notifications.git
+[submodule "Meeds-io/wallet"]
+	path = Meeds-io/wallet
+	url = git@github.com:Meeds-io/wallet.git
+[submodule "Meeds-io/perk-store"]
+	path = Meeds-io/perk-store
+	url = git@github.com:Meeds-io/perk-store.git
+[submodule "Meeds-io/gamification"]
+	path = Meeds-io/gamification
+	url = git@github.com:Meeds-io/gamification.git
+[submodule "Meeds-io/platform-ui"]
+	path = Meeds-io/platform-ui
+	url = git@github.com:Meeds-io/platform-ui.git
+[submodule "Meeds-io/app-center"]
+	path = Meeds-io/app-center
+	url = git@github.com:Meeds-io/app-center.git
+[submodule "Meeds-io/maven-depmgt-pom"]
+	path = Meeds-io/maven-depmgt-pom
+	url = git@github.com:Meeds-io/maven-depmgt-pom.git
+[submodule "Meeds-io/gatein-dep"]
+	path = Meeds-io/gatein-dep
+	url = git@github.com:Meeds-io/gatein-dep.git
+[submodule "Meeds-io/kudos"]
+	path = Meeds-io/kudos
+	url = git@github.com:Meeds-io/kudos.git
+[submodule "Meeds-io/exo-es-embedded"]
+	path = Meeds-io/exo-es-embedded
+	url = git@github.com:Meeds-io/exo-es-embedded.git
+[submodule "Meeds-io/gatein-sso"]
+	path = Meeds-io/gatein-sso
+	url = git@github.com:Meeds-io/gatein-sso.git
+[submodule "Meeds-io/gatein-pc"]
+	path = Meeds-io/gatein-pc
+	url = git@github.com:Meeds-io/gatein-pc.git
+[submodule "Meeds-io/ws"]
+	path = Meeds-io/ws
+	url = git@github.com:Meeds-io/ws.git
+[submodule "Meeds-io/core"]
+	path = Meeds-io/core
+	url = git@github.com:Meeds-io/core.git
+[submodule "Meeds-io/kernel"]
+	path = Meeds-io/kernel
+	url = git@github.com:Meeds-io/kernel.git
+[submodule "Meeds-io/gatein-wci"]
+	path = Meeds-io/gatein-wci
+	url = git@github.com:Meeds-io/gatein-wci.git
+[submodule "Meeds-io/addons-parent-pom"]
+	path = Meeds-io/addons-parent-pom
+	url = git@github.com:Meeds-io/addons-parent-pom.git
+[submodule "Meeds-io/ert-contract"]
+	path = Meeds-io/ert-contract
+	url = git@github.com:Meeds-io/ert-contract.git
+[submodule "Meeds-io/meeds"]
+	path = Meeds-io/meeds
+	url = git@github.com:Meeds-io/meeds.git
+[submodule "Meeds-io/maven-parent-pom"]
+	path = Meeds-io/maven-parent-pom
+	url = git@github.com:Meeds-io/maven-parent-pom.git
+[submodule "Meeds-io/meeds-docker"]
+	path = Meeds-io/meeds-docker
+	url = git@github.com:Meeds-io/meeds-docker.git
+[submodule "Meeds-io/gamification-connectors"]
+	path = Meeds-io/gamification-connectors
+	url = git@github.com:Meeds-io/gamification-connectors.git
+[submodule "exoplatform/analytics-download-gadget"]
+	path = exoplatform/analytics-download-gadget
+	url = git@github.com:exoplatform/analytics-download-gadget.git
+[submodule "exoplatform/sugarcrm-exosocial"]
+	path = exoplatform/sugarcrm-exosocial
+	url = git@github.com:exoplatform/sugarcrm-exosocial.git
+[submodule "exoplatform/spring-roo-monitoring-gadget"]
+	path = exoplatform/spring-roo-monitoring-gadget
+	url = git@github.com:exoplatform/spring-roo-monitoring-gadget.git
+[submodule "exoplatform/staxnav"]
+	path = exoplatform/staxnav
+	url = git@github.com:exoplatform/staxnav.git
+[submodule "exoplatform/exogtn"]
+	path = exoplatform/exogtn
+	url = git@github.com:exoplatform/exogtn.git
+[submodule "exoplatform/epp51"]
+	path = exoplatform/epp51
+	url = git@github.com:exoplatform/epp51.git
+[submodule "exoplatform/webos"]
+	path = exoplatform/webos
+	url = git@github.com:exoplatform/webos.git
+[submodule "exoplatform/chromattic"]
+	path = exoplatform/chromattic
+	url = git@github.com:exoplatform/chromattic.git
+[submodule "exoplatform/statusdashboard"]
+	path = exoplatform/statusdashboard
+	url = git@github.com:exoplatform/statusdashboard.git
+[submodule "exoplatform/wikbook"]
+	path = exoplatform/wikbook
+	url = git@github.com:exoplatform/wikbook.git
+[submodule "exoplatform/qdox"]
+	path = exoplatform/qdox
+	url = git@github.com:exoplatform/qdox.git
+[submodule "exoplatform/developer.exoplatform.org"]
+	path = exoplatform/developer.exoplatform.org
+	url = git@github.com:exoplatform/developer.exoplatform.org.git
+[submodule "exoplatform/apache-pdfbox"]
+	path = exoplatform/apache-pdfbox
+	url = git@github.com:exoplatform/apache-pdfbox.git
+[submodule "exoplatform/apache-shindig"]
+	path = exoplatform/apache-shindig
+	url = git@github.com:exoplatform/apache-shindig.git
+[submodule "exoplatform/adt"]
+	path = exoplatform/adt
+	url = git@github.com:exoplatform/adt.git
+[submodule "exoplatform/maven-parent-pom"]
+	path = exoplatform/maven-parent-pom
+	url = git@github.com:exoplatform/maven-parent-pom.git
+[submodule "exoplatform/my-exo"]
+	path = exoplatform/my-exo
+	url = git@github.com:exoplatform/my-exo.git
+[submodule "exoplatform/qa-jmxtrans"]
+	path = exoplatform/qa-jmxtrans
+	url = git@github.com:exoplatform/qa-jmxtrans.git
+[submodule "exoplatform/cloud-ide"]
+	path = exoplatform/cloud-ide
+	url = git@github.com:exoplatform/cloud-ide.git
+[submodule "exoplatform/cloud"]
+	path = exoplatform/cloud
+	url = git@github.com:exoplatform/cloud.git
+[submodule "exoplatform/cross-access"]
+	path = exoplatform/cross-access
+	url = git@github.com:exoplatform/cross-access.git
+[submodule "exoplatform/mobile-server-extension"]
+	path = exoplatform/mobile-server-extension
+	url = git@github.com:exoplatform/mobile-server-extension.git
+[submodule "exoplatform/doc-website"]
+	path = exoplatform/doc-website
+	url = git@github.com:exoplatform/doc-website.git
+[submodule "exoplatform/cloud-workspaces"]
+	path = exoplatform/cloud-workspaces
+	url = git@github.com:exoplatform/cloud-workspaces.git
+[submodule "exoplatform/platform-cloud"]
+	path = exoplatform/platform-cloud
+	url = git@github.com:exoplatform/platform-cloud.git
+[submodule "exoplatform/docs-style"]
+	path = exoplatform/docs-style
+	url = git@github.com:exoplatform/docs-style.git
+[submodule "exoplatform/infocenter-custo"]
+	path = exoplatform/infocenter-custo
+	url = git@github.com:exoplatform/infocenter-custo.git
+[submodule "exoplatform/qa-website-extension"]
+	path = exoplatform/qa-website-extension
+	url = git@github.com:exoplatform/qa-website-extension.git
+[submodule "exoplatform/benchmark-reporting"]
+	path = exoplatform/benchmark-reporting
+	url = git@github.com:exoplatform/benchmark-reporting.git
+[submodule "exoplatform/benchmark-scripts"]
+	path = exoplatform/benchmark-scripts
+	url = git@github.com:exoplatform/benchmark-scripts.git
+[submodule "exoplatform/dev-resources"]
+	path = exoplatform/dev-resources
+	url = git@github.com:exoplatform/dev-resources.git
+[submodule "exoplatform/jcr-docs-style"]
+	path = exoplatform/jcr-docs-style
+	url = git@github.com:exoplatform/jcr-docs-style.git
+[submodule "exoplatform/junit-fwk"]
+	path = exoplatform/junit-fwk
+	url = git@github.com:exoplatform/junit-fwk.git
+[submodule "exoplatform/cf-parent"]
+	path = exoplatform/cf-parent
+	url = git@github.com:exoplatform/cf-parent.git
+[submodule "exoplatform/jcr-msofficeplugin"]
+	path = exoplatform/jcr-msofficeplugin
+	url = git@github.com:exoplatform/jcr-msofficeplugin.git
+[submodule "exoplatform/cp-maaf"]
+	path = exoplatform/cp-maaf
+	url = git@github.com:exoplatform/cp-maaf.git
+[submodule "exoplatform/integration"]
+	path = exoplatform/integration
+	url = git@github.com:exoplatform/integration.git
+[submodule "exoplatform/plf-tools-trial"]
+	path = exoplatform/plf-tools-trial
+	url = git@github.com:exoplatform/plf-tools-trial.git
+[submodule "exoplatform/jcr-express-tests-automation-reports"]
+	path = exoplatform/jcr-express-tests-automation-reports
+	url = git@github.com:exoplatform/jcr-express-tests-automation-reports.git
+[submodule "exoplatform/jcr-express-tests-automation"]
+	path = exoplatform/jcr-express-tests-automation
+	url = git@github.com:exoplatform/jcr-express-tests-automation.git
+[submodule "exoplatform/jcr-benchmark-automation-reports"]
+	path = exoplatform/jcr-benchmark-automation-reports
+	url = git@github.com:exoplatform/jcr-benchmark-automation-reports.git
+[submodule "exoplatform/jcr-benchmark-automation"]
+	path = exoplatform/jcr-benchmark-automation
+	url = git@github.com:exoplatform/jcr-benchmark-automation.git
+[submodule "exoplatform/jcr-functional-automation"]
+	path = exoplatform/jcr-functional-automation
+	url = git@github.com:exoplatform/jcr-functional-automation.git
+[submodule "exoplatform/jcr-single-thread-tests-automation"]
+	path = exoplatform/jcr-single-thread-tests-automation
+	url = git@github.com:exoplatform/jcr-single-thread-tests-automation.git
+[submodule "exoplatform/user-service"]
+	path = exoplatform/user-service
+	url = git@github.com:exoplatform/user-service.git
+[submodule "exoplatform/jcr-openofficeplugin"]
+	path = exoplatform/jcr-openofficeplugin
+	url = git@github.com:exoplatform/jcr-openofficeplugin.git
+[submodule "exoplatform/commons"]
+	path = exoplatform/commons
+	url = git@github.com:exoplatform/commons.git
+[submodule "exoplatform/selegen"]
+	path = exoplatform/selegen
+	url = git@github.com:exoplatform/selegen.git
+[submodule "exoplatform/plf-bonita"]
+	path = exoplatform/plf-bonita
+	url = git@github.com:exoplatform/plf-bonita.git
+[submodule "exoplatform/log-reader"]
+	path = exoplatform/log-reader
+	url = git@github.com:exoplatform/log-reader.git
+[submodule "exoplatform/jcr-benchmark"]
+	path = exoplatform/jcr-benchmark
+	url = git@github.com:exoplatform/jcr-benchmark.git
+[submodule "exoplatform/jcr-services"]
+	path = exoplatform/jcr-services
+	url = git@github.com:exoplatform/jcr-services.git
+[submodule "exoplatform/qa-selenium-automation"]
+	path = exoplatform/qa-selenium-automation
+	url = git@github.com:exoplatform/qa-selenium-automation.git
+[submodule "exoplatform/company-intranet"]
+	path = exoplatform/company-intranet
+	url = git@github.com:exoplatform/company-intranet.git
+[submodule "exoplatform/gwtframework"]
+	path = exoplatform/gwtframework
+	url = git@github.com:exoplatform/gwtframework.git
+[submodule "exoplatform/cmis-expert"]
+	path = exoplatform/cmis-expert
+	url = git@github.com:exoplatform/cmis-expert.git
+[submodule "exoplatform/qa-data-repository"]
+	path = exoplatform/qa-data-repository
+	url = git@github.com:exoplatform/qa-data-repository.git
+[submodule "exoplatform/social"]
+	path = exoplatform/social
+	url = git@github.com:exoplatform/social.git
+[submodule "exoplatform/ws"]
+	path = exoplatform/ws
+	url = git@github.com:exoplatform/ws.git
+[submodule "exoplatform/core"]
+	path = exoplatform/core
+	url = git@github.com:exoplatform/core.git
+[submodule "exoplatform/kernel"]
+	path = exoplatform/kernel
+	url = git@github.com:exoplatform/kernel.git
+[submodule "exoplatform/ecms"]
+	path = exoplatform/ecms
+	url = git@github.com:exoplatform/ecms.git
+[submodule "exoplatform/platform"]
+	path = exoplatform/platform
+	url = git@github.com:exoplatform/platform.git
+[submodule "exoplatform/cs"]
+	path = exoplatform/cs
+	url = git@github.com:exoplatform/cs.git
+[submodule "exoplatform/mobile-ios"]
+	path = exoplatform/mobile-ios
+	url = git@github.com:exoplatform/mobile-ios.git
+[submodule "exoplatform/mobile-android"]
+	path = exoplatform/mobile-android
+	url = git@github.com:exoplatform/mobile-android.git
+[submodule "exoplatform/ide"]
+	path = exoplatform/ide
+	url = git@github.com:exoplatform/ide.git
+[submodule "exoplatform/jcr"]
+	path = exoplatform/jcr
+	url = git@github.com:exoplatform/jcr.git
+[submodule "exoplatform/community-forums"]
+	path = exoplatform/community-forums
+	url = git@github.com:exoplatform/community-forums.git
+[submodule "exoplatform/community-website"]
+	path = exoplatform/community-website
+	url = git@github.com:exoplatform/community-website.git
+[submodule "exoplatform/training"]
+	path = exoplatform/training
+	url = git@github.com:exoplatform/training.git
+[submodule "exoplatform/company-website"]
+	path = exoplatform/company-website
+	url = git@github.com:exoplatform/company-website.git
+[submodule "exoplatform/maven-sandbox-project"]
+	path = exoplatform/maven-sandbox-project
+	url = git@github.com:exoplatform/maven-sandbox-project.git
+[submodule "exoplatform/wiki"]
+	path = exoplatform/wiki
+	url = git@github.com:exoplatform/wiki.git
+[submodule "exoplatform/forum"]
+	path = exoplatform/forum
+	url = git@github.com:exoplatform/forum.git
+[submodule "exoplatform/cp-crash"]
+	path = exoplatform/cp-crash
+	url = git@github.com:exoplatform/cp-crash.git
+[submodule "exoplatform/cp-cct"]
+	path = exoplatform/cp-cct
+	url = git@github.com:exoplatform/cp-cct.git
+[submodule "exoplatform/qa-performance-testsuite"]
+	path = exoplatform/qa-performance-testsuite
+	url = git@github.com:exoplatform/qa-performance-testsuite.git
+[submodule "exoplatform/calendar"]
+	path = exoplatform/calendar
+	url = git@github.com:exoplatform/calendar.git
+[submodule "exoplatform/presales"]
+	path = exoplatform/presales
+	url = git@github.com:exoplatform/presales.git
+[submodule "exoplatform/crowdin-maven-plugin"]
+	path = exoplatform/crowdin-maven-plugin
+	url = git@github.com:exoplatform/crowdin-maven-plugin.git
+[submodule "exoplatform/tqa-tn-jenkins-config"]
+	path = exoplatform/tqa-tn-jenkins-config
+	url = git@github.com:exoplatform/tqa-tn-jenkins-config.git
+[submodule "exoplatform/cp-gerap"]
+	path = exoplatform/cp-gerap
+	url = git@github.com:exoplatform/cp-gerap.git
+[submodule "exoplatform/swf-scripts"]
+	path = exoplatform/swf-scripts
+	url = git@github.com:exoplatform/swf-scripts.git
+[submodule "exoplatform/cross-dom-qa-report"]
+	path = exoplatform/cross-dom-qa-report
+	url = git@github.com:exoplatform/cross-dom-qa-report.git
+[submodule "exoplatform/ui-test"]
+	path = exoplatform/ui-test
+	url = git@github.com:exoplatform/ui-test.git
+[submodule "exoplatform/ux-guidelines"]
+	path = exoplatform/ux-guidelines
+	url = git@github.com:exoplatform/ux-guidelines.git
+[submodule "exoplatform/extension-tutorial"]
+	path = exoplatform/extension-tutorial
+	url = git@github.com:exoplatform/extension-tutorial.git
+[submodule "exoplatform/qa-gdash-config"]
+	path = exoplatform/qa-gdash-config
+	url = git@github.com:exoplatform/qa-gdash-config.git
+[submodule "exoplatform/benchmarks-viewer"]
+	path = exoplatform/benchmarks-viewer
+	url = git@github.com:exoplatform/benchmarks-viewer.git
+[submodule "exoplatform/platform-documentation"]
+	path = exoplatform/platform-documentation
+	url = git@github.com:exoplatform/platform-documentation.git
+[submodule "exoplatform/exo-dev-resources"]
+	path = exoplatform/exo-dev-resources
+	url = git@github.com:exoplatform/exo-dev-resources.git
+[submodule "exoplatform/maven-depmgt-pom"]
+	path = exoplatform/maven-depmgt-pom
+	url = git@github.com:exoplatform/maven-depmgt-pom.git
+[submodule "exoplatform/platform-ui"]
+	path = exoplatform/platform-ui
+	url = git@github.com:exoplatform/platform-ui.git
+[submodule "exoplatform/chat-application"]
+	path = exoplatform/chat-application
+	url = git@github.com:exoplatform/chat-application.git
+[submodule "exoplatform/xcmis"]
+	path = exoplatform/xcmis
+	url = git@github.com:exoplatform/xcmis.git
+[submodule "exoplatform/ecp"]
+	path = exoplatform/ecp
+	url = git@github.com:exoplatform/ecp.git
+[submodule "exoplatform/infra-jenkins-config"]
+	path = exoplatform/infra-jenkins-config
+	url = git@github.com:exoplatform/infra-jenkins-config.git
+[submodule "exoplatform/platform-public-distributions"]
+	path = exoplatform/platform-public-distributions
+	url = git@github.com:exoplatform/platform-public-distributions.git
+[submodule "exoplatform/platform-private-distributions"]
+	path = exoplatform/platform-private-distributions
+	url = git@github.com:exoplatform/platform-private-distributions.git
+[submodule "exoplatform/gatein-portal"]
+	path = exoplatform/gatein-portal
+	url = git@github.com:exoplatform/gatein-portal.git
+[submodule "exoplatform/cp-schiever"]
+	path = exoplatform/cp-schiever
+	url = git@github.com:exoplatform/cp-schiever.git
+[submodule "exoplatform/puppet-srv-cfg"]
+	path = exoplatform/puppet-srv-cfg
+	url = git@github.com:exoplatform/puppet-srv-cfg.git
+[submodule "exoplatform/puppet-intranet"]
+	path = exoplatform/puppet-intranet
+	url = git@github.com:exoplatform/puppet-intranet.git
+[submodule "exoplatform/cp-opencloudware"]
+	path = exoplatform/cp-opencloudware
+	url = git@github.com:exoplatform/cp-opencloudware.git
+[submodule "exoplatform/weemo-extension"]
+	path = exoplatform/weemo-extension
+	url = git@github.com:exoplatform/weemo-extension.git
+[submodule "exoplatform/addons-manager"]
+	path = exoplatform/addons-manager
+	url = git@github.com:exoplatform/addons-manager.git
+[submodule "exoplatform/puppet-community"]
+	path = exoplatform/puppet-community
+	url = git@github.com:exoplatform/puppet-community.git
+[submodule "exoplatform/oft"]
+	path = exoplatform/oft
+	url = git@github.com:exoplatform/oft.git
+[submodule "exoplatform/puppet-docs"]
+	path = exoplatform/puppet-docs
+	url = git@github.com:exoplatform/puppet-docs.git
+[submodule "exoplatform/cp-bluebook-network"]
+	path = exoplatform/cp-bluebook-network
+	url = git@github.com:exoplatform/cp-bluebook-network.git
+[submodule "exoplatform/puppet-exo_cloud"]
+	path = exoplatform/puppet-exo_cloud
+	url = git@github.com:exoplatform/puppet-exo_cloud.git
+[submodule "exoplatform/sonar-objective-c"]
+	path = exoplatform/sonar-objective-c
+	url = git@github.com:exoplatform/sonar-objective-c.git
+[submodule "exoplatform/cp-elysee"]
+	path = exoplatform/cp-elysee
+	url = git@github.com:exoplatform/cp-elysee.git
+[submodule "exoplatform/cp-bluebook-network-intranet"]
+	path = exoplatform/cp-bluebook-network-intranet
+	url = git@github.com:exoplatform/cp-bluebook-network-intranet.git
+[submodule "exoplatform/acme-sample"]
+	path = exoplatform/acme-sample
+	url = git@github.com:exoplatform/acme-sample.git
+[submodule "exoplatform/cmis-addon"]
+	path = exoplatform/cmis-addon
+	url = git@github.com:exoplatform/cmis-addon.git
+[submodule "exoplatform/wai-sample"]
+	path = exoplatform/wai-sample
+	url = git@github.com:exoplatform/wai-sample.git
+[submodule "exoplatform/poc-ag2r"]
+	path = exoplatform/poc-ag2r
+	url = git@github.com:exoplatform/poc-ag2r.git
+[submodule "exoplatform/social-client-java"]
+	path = exoplatform/social-client-java
+	url = git@github.com:exoplatform/social-client-java.git
+[submodule "exoplatform/poi"]
+	path = exoplatform/poi
+	url = git@github.com:exoplatform/poi.git
+[submodule "exoplatform/uxpaas"]
+	path = exoplatform/uxpaas
+	url = git@github.com:exoplatform/uxpaas.git
+[submodule "exoplatform/cp-nobel-tower"]
+	path = exoplatform/cp-nobel-tower
+	url = git@github.com:exoplatform/cp-nobel-tower.git
+[submodule "exoplatform/spnego-addon"]
+	path = exoplatform/spnego-addon
+	url = git@github.com:exoplatform/spnego-addon.git
+[submodule "exoplatform/exo-cloud"]
+	path = exoplatform/exo-cloud
+	url = git@github.com:exoplatform/exo-cloud.git
+[submodule "exoplatform/jclouds"]
+	path = exoplatform/jclouds
+	url = git@github.com:exoplatform/jclouds.git
+[submodule "exoplatform/answers"]
+	path = exoplatform/answers
+	url = git@github.com:exoplatform/answers.git
+[submodule "exoplatform/saml2-addon"]
+	path = exoplatform/saml2-addon
+	url = git@github.com:exoplatform/saml2-addon.git
+[submodule "exoplatform/openam-addon"]
+	path = exoplatform/openam-addon
+	url = git@github.com:exoplatform/openam-addon.git
+[submodule "exoplatform/josso-addon"]
+	path = exoplatform/josso-addon
+	url = git@github.com:exoplatform/josso-addon.git
+[submodule "exoplatform/cas-addon"]
+	path = exoplatform/cas-addon
+	url = git@github.com:exoplatform/cas-addon.git
+[submodule "exoplatform/remote-edit"]
+	path = exoplatform/remote-edit
+	url = git@github.com:exoplatform/remote-edit.git
+[submodule "exoplatform/task"]
+	path = exoplatform/task
+	url = git@github.com:exoplatform/task.git
+[submodule "exoplatform/playframework-elasticsearch"]
+	path = exoplatform/playframework-elasticsearch
+	url = git@github.com:exoplatform/playframework-elasticsearch.git
+[submodule "exoplatform/cp-almarelo"]
+	path = exoplatform/cp-almarelo
+	url = git@github.com:exoplatform/cp-almarelo.git
+[submodule "exoplatform/infra-doc"]
+	path = exoplatform/infra-doc
+	url = git@github.com:exoplatform/infra-doc.git
+[submodule "exoplatform/buy-exo-enterprise"]
+	path = exoplatform/buy-exo-enterprise
+	url = git@github.com:exoplatform/buy-exo-enterprise.git
+[submodule "exoplatform/puppet-buy"]
+	path = exoplatform/puppet-buy
+	url = git@github.com:exoplatform/puppet-buy.git
+[submodule "exoplatform/jodconverter"]
+	path = exoplatform/jodconverter
+	url = git@github.com:exoplatform/jodconverter.git
+[submodule "exoplatform/wcm-template-pack"]
+	path = exoplatform/wcm-template-pack
+	url = git@github.com:exoplatform/wcm-template-pack.git
+[submodule "exoplatform/sonar-exo-rules"]
+	path = exoplatform/sonar-exo-rules
+	url = git@github.com:exoplatform/sonar-exo-rules.git
+[submodule "exoplatform/poc-api-test"]
+	path = exoplatform/poc-api-test
+	url = git@github.com:exoplatform/poc-api-test.git
+[submodule "exoplatform/exo-es-embedded"]
+	path = exoplatform/exo-es-embedded
+	url = git@github.com:exoplatform/exo-es-embedded.git
+[submodule "exoplatform/everrest"]
+	path = exoplatform/everrest
+	url = git@github.com:exoplatform/everrest.git
+[submodule "exoplatform/puppet-uxpaas"]
+	path = exoplatform/puppet-uxpaas
+	url = git@github.com:exoplatform/puppet-uxpaas.git
+[submodule "exoplatform/exo-android"]
+	path = exoplatform/exo-android
+	url = git@github.com:exoplatform/exo-android.git
+[submodule "exoplatform/exo-ios"]
+	path = exoplatform/exo-ios
+	url = git@github.com:exoplatform/exo-ios.git
+[submodule "exoplatform/poc-ui-test-selenium"]
+	path = exoplatform/poc-ui-test-selenium
+	url = git@github.com:exoplatform/poc-ui-test-selenium.git
+[submodule "exoplatform/portal-tokens-tools"]
+	path = exoplatform/portal-tokens-tools
+	url = git@github.com:exoplatform/portal-tokens-tools.git
+[submodule "exoplatform/google-apps-backup"]
+	path = exoplatform/google-apps-backup
+	url = git@github.com:exoplatform/google-apps-backup.git
+[submodule "exoplatform/swf-jenkins-config"]
+	path = exoplatform/swf-jenkins-config
+	url = git@github.com:exoplatform/swf-jenkins-config.git
+[submodule "exoplatform/lecko"]
+	path = exoplatform/lecko
+	url = git@github.com:exoplatform/lecko.git
+[submodule "exoplatform/addon-project-template"]
+	path = exoplatform/addon-project-template
+	url = git@github.com:exoplatform/addon-project-template.git
+[submodule "exoplatform/gatein-sso"]
+	path = exoplatform/gatein-sso
+	url = git@github.com:exoplatform/gatein-sso.git
+[submodule "exoplatform/jcabi-maven-plugin"]
+	path = exoplatform/jcabi-maven-plugin
+	url = git@github.com:exoplatform/jcabi-maven-plugin.git
+[submodule "exoplatform/onlyoffice"]
+	path = exoplatform/onlyoffice
+	url = git@github.com:exoplatform/onlyoffice.git
+[submodule "exoplatform/crash-addon"]
+	path = exoplatform/crash-addon
+	url = git@github.com:exoplatform/crash-addon.git
+[submodule "exoplatform/qa-gatling-performance"]
+	path = exoplatform/qa-gatling-performance
+	url = git@github.com:exoplatform/qa-gatling-performance.git
+[submodule "exoplatform/customer-space"]
+	path = exoplatform/customer-space
+	url = git@github.com:exoplatform/customer-space.git
+[submodule "exoplatform/clirr-maven-plugin"]
+	path = exoplatform/clirr-maven-plugin
+	url = git@github.com:exoplatform/clirr-maven-plugin.git
+[submodule "exoplatform/swf-release-manager"]
+	path = exoplatform/swf-release-manager
+	url = git@github.com:exoplatform/swf-release-manager.git
+[submodule "exoplatform/gatein-wci"]
+	path = exoplatform/gatein-wci
+	url = git@github.com:exoplatform/gatein-wci.git
+[submodule "exoplatform/gatein-pc"]
+	path = exoplatform/gatein-pc
+	url = git@github.com:exoplatform/gatein-pc.git
+[submodule "exoplatform/cp-elysee-mobile"]
+	path = exoplatform/cp-elysee-mobile
+	url = git@github.com:exoplatform/cp-elysee-mobile.git
+[submodule "exoplatform/cp-rm"]
+	path = exoplatform/cp-rm
+	url = git@github.com:exoplatform/cp-rm.git
+[submodule "exoplatform/swf-release-manager-catalog"]
+	path = exoplatform/swf-release-manager-catalog
+	url = git@github.com:exoplatform/swf-release-manager-catalog.git
+[submodule "exoplatform/swf-jenkins-pipeline-libs"]
+	path = exoplatform/swf-jenkins-pipeline-libs
+	url = git@github.com:exoplatform/swf-jenkins-pipeline-libs.git
+[submodule "exoplatform/hosting-scripts"]
+	path = exoplatform/hosting-scripts
+	url = git@github.com:exoplatform/hosting-scripts.git
+[submodule "exoplatform/swf-jenkins-pipeline"]
+	path = exoplatform/swf-jenkins-pipeline
+	url = git@github.com:exoplatform/swf-jenkins-pipeline.git
+[submodule "exoplatform/exo-blog"]
+	path = exoplatform/exo-blog
+	url = git@github.com:exoplatform/exo-blog.git
+[submodule "exoplatform/poc-aunde"]
+	path = exoplatform/poc-aunde
+	url = git@github.com:exoplatform/poc-aunde.git
+[submodule "exoplatform/cp-astia"]
+	path = exoplatform/cp-astia
+	url = git@github.com:exoplatform/cp-astia.git
+[submodule "exoplatform/eclipse-help-webapp"]
+	path = exoplatform/eclipse-help-webapp
+	url = git@github.com:exoplatform/eclipse-help-webapp.git
+[submodule "exoplatform/cp-vdc"]
+	path = exoplatform/cp-vdc
+	url = git@github.com:exoplatform/cp-vdc.git
+[submodule "exoplatform/enterprise-skin"]
+	path = exoplatform/enterprise-skin
+	url = git@github.com:exoplatform/enterprise-skin.git
+[submodule "exoplatform/bench-lab"]
+	path = exoplatform/bench-lab
+	url = git@github.com:exoplatform/bench-lab.git
+[submodule "exoplatform/platform-ui-automation-test"]
+	path = exoplatform/platform-ui-automation-test
+	url = git@github.com:exoplatform/platform-ui-automation-test.git
+[submodule "exoplatform/platform-qa-ui"]
+	path = exoplatform/platform-qa-ui
+	url = git@github.com:exoplatform/platform-qa-ui.git
+[submodule "exoplatform/cp-mpen-togo"]
+	path = exoplatform/cp-mpen-togo
+	url = git@github.com:exoplatform/cp-mpen-togo.git
+[submodule "exoplatform/cp-gendarmerie"]
+	path = exoplatform/cp-gendarmerie
+	url = git@github.com:exoplatform/cp-gendarmerie.git
+[submodule "exoplatform/swf-jenkins-pipeline-dev"]
+	path = exoplatform/swf-jenkins-pipeline-dev
+	url = git@github.com:exoplatform/swf-jenkins-pipeline-dev.git
+[submodule "exoplatform/platform-qa-security"]
+	path = exoplatform/platform-qa-security
+	url = git@github.com:exoplatform/platform-qa-security.git
+[submodule "exoplatform/gatein-dep"]
+	path = exoplatform/gatein-dep
+	url = git@github.com:exoplatform/gatein-dep.git
+[submodule "exoplatform/platform-qa-ui-data"]
+	path = exoplatform/platform-qa-ui-data
+	url = git@github.com:exoplatform/platform-qa-ui-data.git
+[submodule "exoplatform/cp-atisnetwork"]
+	path = exoplatform/cp-atisnetwork
+	url = git@github.com:exoplatform/cp-atisnetwork.git
+[submodule "exoplatform/qa-security-automation"]
+	path = exoplatform/qa-security-automation
+	url = git@github.com:exoplatform/qa-security-automation.git
+[submodule "exoplatform/cp-csem"]
+	path = exoplatform/cp-csem
+	url = git@github.com:exoplatform/cp-csem.git
+[submodule "exoplatform/cp-aerov"]
+	path = exoplatform/cp-aerov
+	url = git@github.com:exoplatform/cp-aerov.git
+[submodule "exoplatform/community-website-ui-test"]
+	path = exoplatform/community-website-ui-test
+	url = git@github.com:exoplatform/community-website-ui-test.git
+[submodule "exoplatform/web-conferencing"]
+	path = exoplatform/web-conferencing
+	url = git@github.com:exoplatform/web-conferencing.git
+[submodule "exoplatform/qa-scripts"]
+	path = exoplatform/qa-scripts
+	url = git@github.com:exoplatform/qa-scripts.git
+[submodule "exoplatform/qa-w3af-auto"]
+	path = exoplatform/qa-w3af-auto
+	url = git@github.com:exoplatform/qa-w3af-auto.git
+[submodule "exoplatform/data-injection-lib"]
+	path = exoplatform/data-injection-lib
+	url = git@github.com:exoplatform/data-injection-lib.git
+[submodule "exoplatform/cp-atisnetwork-android"]
+	path = exoplatform/cp-atisnetwork-android
+	url = git@github.com:exoplatform/cp-atisnetwork-android.git
+[submodule "exoplatform/cp-atisnetwork-ios"]
+	path = exoplatform/cp-atisnetwork-ios
+	url = git@github.com:exoplatform/cp-atisnetwork-ios.git
+[submodule "exoplatform/gamification"]
+	path = exoplatform/gamification
+	url = git@github.com:exoplatform/gamification.git
+[submodule "exoplatform/push-notifications"]
+	path = exoplatform/push-notifications
+	url = git@github.com:exoplatform/push-notifications.git
+[submodule "exoplatform/cp-cd95"]
+	path = exoplatform/cp-cd95
+	url = git@github.com:exoplatform/cp-cd95.git
+[submodule "exoplatform/banner-samples"]
+	path = exoplatform/banner-samples
+	url = git@github.com:exoplatform/banner-samples.git
+[submodule "exoplatform/monitoring-stack"]
+	path = exoplatform/monitoring-stack
+	url = git@github.com:exoplatform/monitoring-stack.git
+[submodule "exoplatform/exo-ios-certificates"]
+	path = exoplatform/exo-ios-certificates
+	url = git@github.com:exoplatform/exo-ios-certificates.git
+[submodule "exoplatform/cp-atisnetwork-ios-certificates"]
+	path = exoplatform/cp-atisnetwork-ios-certificates
+	url = git@github.com:exoplatform/cp-atisnetwork-ios-certificates.git
+[submodule "exoplatform/cp-vivalto"]
+	path = exoplatform/cp-vivalto
+	url = git@github.com:exoplatform/cp-vivalto.git
+[submodule "exoplatform/cp-mae-reseau21"]
+	path = exoplatform/cp-mae-reseau21
+	url = git@github.com:exoplatform/cp-mae-reseau21.git
+[submodule "exoplatform/cp-dgfla"]
+	path = exoplatform/cp-dgfla
+	url = git@github.com:exoplatform/cp-dgfla.git
+[submodule "exoplatform/cp-goip"]
+	path = exoplatform/cp-goip
+	url = git@github.com:exoplatform/cp-goip.git
+[submodule "exoplatform/cp-obf"]
+	path = exoplatform/cp-obf
+	url = git@github.com:exoplatform/cp-obf.git
+[submodule "exoplatform/cp-cetih"]
+	path = exoplatform/cp-cetih
+	url = git@github.com:exoplatform/cp-cetih.git
+[submodule "exoplatform/exo-documentation"]
+	path = exoplatform/exo-documentation
+	url = git@github.com:exoplatform/exo-documentation.git
+[submodule "exoplatform/exo-dns"]
+	path = exoplatform/exo-dns
+	url = git@github.com:exoplatform/exo-dns.git
+[submodule "exoplatform/kudos"]
+	path = exoplatform/kudos
+	url = git@github.com:exoplatform/kudos.git
+[submodule "exoplatform/cp-opalia"]
+	path = exoplatform/cp-opalia
+	url = git@github.com:exoplatform/cp-opalia.git
+[submodule "exoplatform/cp-tim-saml2-integration"]
+	path = exoplatform/cp-tim-saml2-integration
+	url = git@github.com:exoplatform/cp-tim-saml2-integration.git
+[submodule "exoplatform/perk-store"]
+	path = exoplatform/perk-store
+	url = git@github.com:exoplatform/perk-store.git
+[submodule "exoplatform/training-exercises"]
+	path = exoplatform/training-exercises
+	url = git@github.com:exoplatform/training-exercises.git
+[submodule "exoplatform/cp-ai4eu"]
+	path = exoplatform/cp-ai4eu
+	url = git@github.com:exoplatform/cp-ai4eu.git
+[submodule "exoplatform/wallet"]
+	path = exoplatform/wallet
+	url = git@github.com:exoplatform/wallet.git
+[submodule "exoplatform/cp-excellence-vegetale"]
+	path = exoplatform/cp-excellence-vegetale
+	url = git@github.com:exoplatform/cp-excellence-vegetale.git
+[submodule "exoplatform/python-github-backup"]
+	path = exoplatform/python-github-backup
+	url = git@github.com:exoplatform/python-github-backup.git
+[submodule "exoplatform/poc-sandbox"]
+	path = exoplatform/poc-sandbox
+	url = git@github.com:exoplatform/poc-sandbox.git
+[submodule "exoplatform/cp-monveto"]
+	path = exoplatform/cp-monveto
+	url = git@github.com:exoplatform/cp-monveto.git
+[submodule "exoplatform/cp-interarts"]
+	path = exoplatform/cp-interarts
+	url = git@github.com:exoplatform/cp-interarts.git
+[submodule "exoplatform/news"]
+	path = exoplatform/news
+	url = git@github.com:exoplatform/news.git
+[submodule "exoplatform/digital-workplace"]
+	path = exoplatform/digital-workplace
+	url = git@github.com:exoplatform/digital-workplace.git
+[submodule "exoplatform/legacy-intranet"]
+	path = exoplatform/legacy-intranet
+	url = git@github.com:exoplatform/legacy-intranet.git
+[submodule "exoplatform/app-center"]
+	path = exoplatform/app-center
+	url = git@github.com:exoplatform/app-center.git
+[submodule "exoplatform/data-upgrade"]
+	path = exoplatform/data-upgrade
+	url = git@github.com:exoplatform/data-upgrade.git
+[submodule "exoplatform/diff-extension-maven-plugin"]
+	path = exoplatform/diff-extension-maven-plugin
+	url = git@github.com:exoplatform/diff-extension-maven-plugin.git
+[submodule "exoplatform/puppet-config"]
+	path = exoplatform/puppet-config
+	url = git@github.com:exoplatform/puppet-config.git
+[submodule "exoplatform/layout-management"]
+	path = exoplatform/layout-management
+	url = git@github.com:exoplatform/layout-management.git
+[submodule "exoplatform/cp-safran"]
+	path = exoplatform/cp-safran
+	url = git@github.com:exoplatform/cp-safran.git
+[submodule "exoplatform/meeds"]
+	path = exoplatform/meeds
+	url = git@github.com:exoplatform/meeds.git
+[submodule "exoplatform/puppet-dev"]
+	path = exoplatform/puppet-dev
+	url = git@github.com:exoplatform/puppet-dev.git
+[submodule "exoplatform/cp-first-capital"]
+	path = exoplatform/cp-first-capital
+	url = git@github.com:exoplatform/cp-first-capital.git
+[submodule "exoplatform/cp-aefinfo"]
+	path = exoplatform/cp-aefinfo
+	url = git@github.com:exoplatform/cp-aefinfo.git
+[submodule "exoplatform/clientsolutions"]
+	path = exoplatform/clientsolutions
+	url = git@github.com:exoplatform/clientsolutions.git
+[submodule "exoplatform/swf-exo-parent"]
+	path = exoplatform/swf-exo-parent
+	url = git@github.com:exoplatform/swf-exo-parent.git
+[submodule "exoplatform/cp-weishardt"]
+	path = exoplatform/cp-weishardt
+	url = git@github.com:exoplatform/cp-weishardt.git
+[submodule "exoplatform/cp-naftogaz"]
+	path = exoplatform/cp-naftogaz
+	url = git@github.com:exoplatform/cp-naftogaz.git
+[submodule "exoplatform/cp-naftogaz-android"]
+	path = exoplatform/cp-naftogaz-android
+	url = git@github.com:exoplatform/cp-naftogaz-android.git
+[submodule "exoplatform/cp-naftogaz-ios"]
+	path = exoplatform/cp-naftogaz-ios
+	url = git@github.com:exoplatform/cp-naftogaz-ios.git
+[submodule "exoplatform/cp-naftogaz-ios-certificates"]
+	path = exoplatform/cp-naftogaz-ios-certificates
+	url = git@github.com:exoplatform/cp-naftogaz-ios-certificates.git
+[submodule "exoplatform/agenda"]
+	path = exoplatform/agenda
+	url = git@github.com:exoplatform/agenda.git
+[submodule "exoplatform/microservices"]
+	path = exoplatform/microservices
+	url = git@github.com:exoplatform/microservices.git
+[submodule "exo-docker/ubuntu-jdk7"]
+	path = exo-docker/ubuntu-jdk7
+	url = git@github.com:exo-docker/ubuntu-jdk7.git
+[submodule "exo-docker/ubuntu-jdk7-exo"]
+	path = exo-docker/ubuntu-jdk7-exo
+	url = git@github.com:exo-docker/ubuntu-jdk7-exo.git
+[submodule "exo-docker/ubuntu-jdk7-exo-chat"]
+	path = exo-docker/ubuntu-jdk7-exo-chat
+	url = git@github.com:exo-docker/ubuntu-jdk7-exo-chat.git
+[submodule "exo-docker/exo-maven"]
+	path = exo-docker/exo-maven
+	url = git@github.com:exo-docker/exo-maven.git
+[submodule "exo-docker/exo-addons"]
+	path = exo-docker/exo-addons
+	url = git@github.com:exo-docker/exo-addons.git
+[submodule "exo-docker/base-jdk"]
+	path = exo-docker/base-jdk
+	url = git@github.com:exo-docker/base-jdk.git
+[submodule "exo-docker/exo-trial"]
+	path = exo-docker/exo-trial
+	url = git@github.com:exo-docker/exo-trial.git
+[submodule "exo-docker/exo"]
+	path = exo-docker/exo
+	url = git@github.com:exo-docker/exo.git
+[submodule "exo-docker/exo-smtp"]
+	path = exo-docker/exo-smtp
+	url = git@github.com:exo-docker/exo-smtp.git
+[submodule "exo-docker/exo-ci"]
+	path = exo-docker/exo-ci
+	url = git@github.com:exo-docker/exo-ci.git
+[submodule "exo-docker/sensu"]
+	path = exo-docker/sensu
+	url = git@github.com:exo-docker/sensu.git
+[submodule "exo-docker/exo-che"]
+	path = exo-docker/exo-che
+	url = git@github.com:exo-docker/exo-che.git
+[submodule "exo-docker/exo-elasticsearch"]
+	path = exo-docker/exo-elasticsearch
+	url = git@github.com:exo-docker/exo-elasticsearch.git
+[submodule "exo-docker/exo-jitsi-meet"]
+	path = exo-docker/exo-jitsi-meet
+	url = git@github.com:exo-docker/exo-jitsi-meet.git
+[submodule "exo-docker/exo-release"]
+	path = exo-docker/exo-release
+	url = git@github.com:exo-docker/exo-release.git
+[submodule "exo-docker/exo-oracle"]
+	path = exo-docker/exo-oracle
+	url = git@github.com:exo-docker/exo-oracle.git
+[submodule "exo-docker/exo-sqlserver"]
+	path = exo-docker/exo-sqlserver
+	url = git@github.com:exo-docker/exo-sqlserver.git
+[submodule "exo-docker/wordpress"]
+	path = exo-docker/wordpress
+	url = git@github.com:exo-docker/wordpress.git
+[submodule "exo-docker/exo-nginx"]
+	path = exo-docker/exo-nginx
+	url = git@github.com:exo-docker/exo-nginx.git
+[submodule "exo-docker/jmxtrans"]
+	path = exo-docker/jmxtrans
+	url = git@github.com:exo-docker/jmxtrans.git
+[submodule "exo-docker/exo-chat-server"]
+	path = exo-docker/exo-chat-server
+	url = git@github.com:exo-docker/exo-chat-server.git
+[submodule "exo-docker/jmeter"]
+	path = exo-docker/jmeter
+	url = git@github.com:exo-docker/jmeter.git
+[submodule "exo-docker/exo-mysqltuner"]
+	path = exo-docker/exo-mysqltuner
+	url = git@github.com:exo-docker/exo-mysqltuner.git
+[submodule "exo-docker/docker-openldap"]
+	path = exo-docker/docker-openldap
+	url = git@github.com:exo-docker/docker-openldap.git
+[submodule "exo-docker/ubuntu"]
+	path = exo-docker/ubuntu
+	url = git@github.com:exo-docker/ubuntu.git
+[submodule "exo-docker/jdk"]
+	path = exo-docker/jdk
+	url = git@github.com:exo-docker/jdk.git
+[submodule "exo-docker/exo-coturn"]
+	path = exo-docker/exo-coturn
+	url = git@github.com:exo-docker/exo-coturn.git
+[submodule "exo-docker/exo-backstopjs"]
+	path = exo-docker/exo-backstopjs
+	url = git@github.com:exo-docker/exo-backstopjs.git
+[submodule "exo-docker/lightweightCMISserver"]
+	path = exo-docker/lightweightCMISserver
+	url = git@github.com:exo-docker/lightweightCMISserver.git
+[submodule "exo-docker/jira"]
+	path = exo-docker/jira
+	url = git@github.com:exo-docker/jira.git
+[submodule "exo-docker/cmis-server"]
+	path = exo-docker/cmis-server
+	url = git@github.com:exo-docker/cmis-server.git
+[submodule "exo-docker/exo-documentserver"]
+	path = exo-docker/exo-documentserver
+	url = git@github.com:exo-docker/exo-documentserver.git
+[submodule "exo-docker/exo-documentserver-ie"]
+	path = exo-docker/exo-documentserver-ie
+	url = git@github.com:exo-docker/exo-documentserver-ie.git
+[submodule "exo-docker/squash-tm"]
+	path = exo-docker/squash-tm
+	url = git@github.com:exo-docker/squash-tm.git
+[submodule "exo-docker/jitsi-call"]
+	path = exo-docker/jitsi-call
+	url = git@github.com:exo-docker/jitsi-call.git
+[submodule "exodev/exogtn"]
+	path = exodev/exogtn
+	url = git@github.com:exodev/exogtn.git
+[submodule "exodev/cs"]
+	path = exodev/cs
+	url = git@github.com:exodev/cs.git
+[submodule "exodev/gwtframework"]
+	path = exodev/gwtframework
+	url = git@github.com:exodev/gwtframework.git
+[submodule "exodev/jcr-msofficeplugin"]
+	path = exodev/jcr-msofficeplugin
+	url = git@github.com:exodev/jcr-msofficeplugin.git
+[submodule "exodev/jcr-openofficeplugin"]
+	path = exodev/jcr-openofficeplugin
+	url = git@github.com:exodev/jcr-openofficeplugin.git
+[submodule "exodev/ide"]
+	path = exodev/ide
+	url = git@github.com:exodev/ide.git
+[submodule "exodev/maven-sandbox-project"]
+	path = exodev/maven-sandbox-project
+	url = git@github.com:exodev/maven-sandbox-project.git
+[submodule "exodev/webos"]
+	path = exodev/webos
+	url = git@github.com:exodev/webos.git
+[submodule "exodev/xcmis"]
+	path = exodev/xcmis
+	url = git@github.com:exodev/xcmis.git
+[submodule "exo-addons/twitter-integration"]
+	path = exo-addons/twitter-integration
+	url = git@github.com:exo-addons/twitter-integration.git
+[submodule "exo-addons/setup-wizard-extension"]
+	path = exo-addons/setup-wizard-extension
+	url = git@github.com:exo-addons/setup-wizard-extension.git
+[submodule "exo-addons/wiki-macro-loremipsum"]
+	path = exo-addons/wiki-macro-loremipsum
+	url = git@github.com:exo-addons/wiki-macro-loremipsum.git
+[submodule "exo-addons/blog-extension"]
+	path = exo-addons/blog-extension
+	url = git@github.com:exo-addons/blog-extension.git
+[submodule "exo-addons/sso-extension"]
+	path = exo-addons/sso-extension
+	url = git@github.com:exo-addons/sso-extension.git
+[submodule "exo-addons/bonita-extension"]
+	path = exo-addons/bonita-extension
+	url = git@github.com:exo-addons/bonita-extension.git
+[submodule "exo-addons/staging-extension"]
+	path = exo-addons/staging-extension
+	url = git@github.com:exo-addons/staging-extension.git
+[submodule "exo-addons/intranet-extras"]
+	path = exo-addons/intranet-extras
+	url = git@github.com:exo-addons/intranet-extras.git
+[submodule "exo-addons/documents-application"]
+	path = exo-addons/documents-application
+	url = git@github.com:exo-addons/documents-application.git
+[submodule "exo-addons/google-docs-extension"]
+	path = exo-addons/google-docs-extension
+	url = git@github.com:exo-addons/google-docs-extension.git
+[submodule "exo-addons/adn-gallery"]
+	path = exo-addons/adn-gallery
+	url = git@github.com:exo-addons/adn-gallery.git
+[submodule "exo-addons/news-slider"]
+	path = exo-addons/news-slider
+	url = git@github.com:exo-addons/news-slider.git
+[submodule "exo-addons/mobile-template-extension"]
+	path = exo-addons/mobile-template-extension
+	url = git@github.com:exo-addons/mobile-template-extension.git
+[submodule "exo-addons/cloud-drive-extension"]
+	path = exo-addons/cloud-drive-extension
+	url = git@github.com:exo-addons/cloud-drive-extension.git
+[submodule "exo-addons/demo-extension"]
+	path = exo-addons/demo-extension
+	url = git@github.com:exo-addons/demo-extension.git
+[submodule "exo-addons/recentupdate-wiki-macro"]
+	path = exo-addons/recentupdate-wiki-macro
+	url = git@github.com:exo-addons/recentupdate-wiki-macro.git
+[submodule "exo-addons/video-wiki-macro"]
+	path = exo-addons/video-wiki-macro
+	url = git@github.com:exo-addons/video-wiki-macro.git
+[submodule "exo-addons/newrelic-extension"]
+	path = exo-addons/newrelic-extension
+	url = git@github.com:exo-addons/newrelic-extension.git
+[submodule "exo-addons/resource-center"]
+	path = exo-addons/resource-center
+	url = git@github.com:exo-addons/resource-center.git
+[submodule "exo-addons/pagesjaunes-extension"]
+	path = exo-addons/pagesjaunes-extension
+	url = git@github.com:exo-addons/pagesjaunes-extension.git
+[submodule "exo-addons/exchange-extension"]
+	path = exo-addons/exchange-extension
+	url = git@github.com:exo-addons/exchange-extension.git
+[submodule "exo-addons/extension-generator"]
+	path = exo-addons/extension-generator
+	url = git@github.com:exo-addons/extension-generator.git
+[submodule "exo-addons/sirona-addon"]
+	path = exo-addons/sirona-addon
+	url = git@github.com:exo-addons/sirona-addon.git
+[submodule "exo-addons/organization-service-mongodb"]
+	path = exo-addons/organization-service-mongodb
+	url = git@github.com:exo-addons/organization-service-mongodb.git
+[submodule "exo-addons/gmail-addon"]
+	path = exo-addons/gmail-addon
+	url = git@github.com:exo-addons/gmail-addon.git
+[submodule "exo-addons/atemis-addon"]
+	path = exo-addons/atemis-addon
+	url = git@github.com:exo-addons/atemis-addon.git
+[submodule "exo-addons/jmxtrans-addon"]
+	path = exo-addons/jmxtrans-addon
+	url = git@github.com:exo-addons/jmxtrans-addon.git
+[submodule "exo-addons/portlet-pack"]
+	path = exo-addons/portlet-pack
+	url = git@github.com:exo-addons/portlet-pack.git
+[submodule "exo-addons/publication-noversion-extension"]
+	path = exo-addons/publication-noversion-extension
+	url = git@github.com:exo-addons/publication-noversion-extension.git
+[submodule "exo-addons/cmis-search-connector"]
+	path = exo-addons/cmis-search-connector
+	url = git@github.com:exo-addons/cmis-search-connector.git
+[submodule "exo-addons/sample-jsf-portlet"]
+	path = exo-addons/sample-jsf-portlet
+	url = git@github.com:exo-addons/sample-jsf-portlet.git
+[submodule "exo-addons/sample-springmvc-portlet"]
+	path = exo-addons/sample-springmvc-portlet
+	url = git@github.com:exo-addons/sample-springmvc-portlet.git
+[submodule "exo-addons/statistics-extension"]
+	path = exo-addons/statistics-extension
+	url = git@github.com:exo-addons/statistics-extension.git
+[submodule "exo-addons/space-management-notification"]
+	path = exo-addons/space-management-notification
+	url = git@github.com:exo-addons/space-management-notification.git
+[submodule "exo-addons/storage-library"]
+	path = exo-addons/storage-library
+	url = git@github.com:exo-addons/storage-library.git
+[submodule "exo-addons/marketplace-extension"]
+	path = exo-addons/marketplace-extension
+	url = git@github.com:exo-addons/marketplace-extension.git
+[submodule "exo-addons/mobile-notifications-addon"]
+	path = exo-addons/mobile-notifications-addon
+	url = git@github.com:exo-addons/mobile-notifications-addon.git
+[submodule "exo-addons/responsive-addon"]
+	path = exo-addons/responsive-addon
+	url = git@github.com:exo-addons/responsive-addon.git
+[submodule "exo-addons/spaces-administration"]
+	path = exo-addons/spaces-administration
+	url = git@github.com:exo-addons/spaces-administration.git
+[submodule "exo-addons/elasticsearch-indexer"]
+	path = exo-addons/elasticsearch-indexer
+	url = git@github.com:exo-addons/elasticsearch-indexer.git
+[submodule "exo-addons/brand-advocacy"]
+	path = exo-addons/brand-advocacy
+	url = git@github.com:exo-addons/brand-advocacy.git
+[submodule "exo-addons/component-filter"]
+	path = exo-addons/component-filter
+	url = git@github.com:exo-addons/component-filter.git
+[submodule "exo-addons/maintenance-warning-addon"]
+	path = exo-addons/maintenance-warning-addon
+	url = git@github.com:exo-addons/maintenance-warning-addon.git
+[submodule "exo-addons/cloud-drive-sharepoint"]
+	path = exo-addons/cloud-drive-sharepoint
+	url = git@github.com:exo-addons/cloud-drive-sharepoint.git
+[submodule "exo-addons/remove-my-account"]
+	path = exo-addons/remove-my-account
+	url = git@github.com:exo-addons/remove-my-account.git
+[submodule "exo-addons/console-notification"]
+	path = exo-addons/console-notification
+	url = git@github.com:exo-addons/console-notification.git
+[submodule "exo-addons/invite-friend"]
+	path = exo-addons/invite-friend
+	url = git@github.com:exo-addons/invite-friend.git
+[submodule "exo-addons/dark-skin"]
+	path = exo-addons/dark-skin
+	url = git@github.com:exo-addons/dark-skin.git
+[submodule "exo-addons/green-skin"]
+	path = exo-addons/green-skin
+	url = git@github.com:exo-addons/green-skin.git
+[submodule "exo-addons/ldapui"]
+	path = exo-addons/ldapui
+	url = git@github.com:exo-addons/ldapui.git
+[submodule "exo-addons/exoplatform-pulse"]
+	path = exo-addons/exoplatform-pulse
+	url = git@github.com:exo-addons/exoplatform-pulse.git
+[submodule "exo-addons/josso-addon"]
+	path = exo-addons/josso-addon
+	url = git@github.com:exo-addons/josso-addon.git
+[submodule "exo-addons/wai-sample"]
+	path = exo-addons/wai-sample
+	url = git@github.com:exo-addons/wai-sample.git
+[submodule "exo-addons/acme-sample"]
+	path = exo-addons/acme-sample
+	url = git@github.com:exo-addons/acme-sample.git
+[submodule "exo-addons/weemo-extension"]
+	path = exo-addons/weemo-extension
+	url = git@github.com:exo-addons/weemo-extension.git
+[submodule "exo-addons/salesforce-integration"]
+	path = exo-addons/salesforce-integration
+	url = git@github.com:exo-addons/salesforce-integration.git
+[submodule "exo-addons/moxtra-integration"]
+	path = exo-addons/moxtra-integration
+	url = git@github.com:exo-addons/moxtra-integration.git
+[submodule "exo-addons/rest-api-doc"]
+	path = exo-addons/rest-api-doc
+	url = git@github.com:exo-addons/rest-api-doc.git
+[submodule "exo-addons/sample-cdi-portlet"]
+	path = exo-addons/sample-cdi-portlet
+	url = git@github.com:exo-addons/sample-cdi-portlet.git
+[submodule "exo-addons/import-users-csv"]
+	path = exo-addons/import-users-csv
+	url = git@github.com:exo-addons/import-users-csv.git
+[submodule "exo-addons/change-password"]
+	path = exo-addons/change-password
+	url = git@github.com:exo-addons/change-password.git
+[submodule "exo-addons/skinning"]
+	path = exo-addons/skinning
+	url = git@github.com:exo-addons/skinning.git
+[submodule "exo-addons/github-oauth"]
+	path = exo-addons/github-oauth
+	url = git@github.com:exo-addons/github-oauth.git
+[submodule "exo-addons/sdp-demo-extension"]
+	path = exo-addons/sdp-demo-extension
+	url = git@github.com:exo-addons/sdp-demo-extension.git
+[submodule "exo-addons/trash-cleaner"]
+	path = exo-addons/trash-cleaner
+	url = git@github.com:exo-addons/trash-cleaner.git
+[submodule "exo-addons/space-categories"]
+	path = exo-addons/space-categories
+	url = git@github.com:exo-addons/space-categories.git
+[submodule "exo-addons/portal-rdbms"]
+	path = exo-addons/portal-rdbms
+	url = git@github.com:exo-addons/portal-rdbms.git
+[submodule "exo-addons/crash-addon"]
+	path = exo-addons/crash-addon
+	url = git@github.com:exo-addons/crash-addon.git
+[submodule "exo-addons/exo-jdbc-driver-mysql"]
+	path = exo-addons/exo-jdbc-driver-mysql
+	url = git@github.com:exo-addons/exo-jdbc-driver-mysql.git
+[submodule "exo-addons/exo-jdbc-driver-postgresql"]
+	path = exo-addons/exo-jdbc-driver-postgresql
+	url = git@github.com:exo-addons/exo-jdbc-driver-postgresql.git
+[submodule "exo-addons/exo-jdbc-driver-sqlserver"]
+	path = exo-addons/exo-jdbc-driver-sqlserver
+	url = git@github.com:exo-addons/exo-jdbc-driver-sqlserver.git
+[submodule "exo-addons/exo-jdbc-driver-oracle"]
+	path = exo-addons/exo-jdbc-driver-oracle
+	url = git@github.com:exo-addons/exo-jdbc-driver-oracle.git
+[submodule "exo-addons/outlook"]
+	path = exo-addons/outlook
+	url = git@github.com:exo-addons/outlook.git
+[submodule "exo-addons/external-user-invitation"]
+	path = exo-addons/external-user-invitation
+	url = git@github.com:exo-addons/external-user-invitation.git
+[submodule "exo-addons/exo-crowdin"]
+	path = exo-addons/exo-crowdin
+	url = git@github.com:exo-addons/exo-crowdin.git
+[submodule "exo-addons/html-wiki-macro"]
+	path = exo-addons/html-wiki-macro
+	url = git@github.com:exo-addons/html-wiki-macro.git
+[submodule "exo-addons/monitoring"]
+	path = exo-addons/monitoring
+	url = git@github.com:exo-addons/monitoring.git
+[submodule "exo-addons/linotp"]
+	path = exo-addons/linotp
+	url = git@github.com:exo-addons/linotp.git
+[submodule "exo-addons/rh-requests-management"]
+	path = exo-addons/rh-requests-management
+	url = git@github.com:exo-addons/rh-requests-management.git
+[submodule "exo-addons/photo-localization"]
+	path = exo-addons/photo-localization
+	url = git@github.com:exo-addons/photo-localization.git
+[submodule "exo-addons/skype"]
+	path = exo-addons/skype
+	url = git@github.com:exo-addons/skype.git
+[submodule "exo-addons/data-injectors"]
+	path = exo-addons/data-injectors
+	url = git@github.com:exo-addons/data-injectors.git
+[submodule "exo-addons/gatein-wsrp"]
+	path = exo-addons/gatein-wsrp
+	url = git@github.com:exo-addons/gatein-wsrp.git
+[submodule "exo-addons/qa-users-groups-initializer"]
+	path = exo-addons/qa-users-groups-initializer
+	url = git@github.com:exo-addons/qa-users-groups-initializer.git
+[submodule "exo-addons/net-promoter-score"]
+	path = exo-addons/net-promoter-score
+	url = git@github.com:exo-addons/net-promoter-score.git
+[submodule "exo-addons/mandatory-spaces"]
+	path = exo-addons/mandatory-spaces
+	url = git@github.com:exo-addons/mandatory-spaces.git
+[submodule "exo-addons/wiki-diagram"]
+	path = exo-addons/wiki-diagram
+	url = git@github.com:exo-addons/wiki-diagram.git
+[submodule "exo-addons/intercom"]
+	path = exo-addons/intercom
+	url = git@github.com:exo-addons/intercom.git
+[submodule "exo-addons/categories-management"]
+	path = exo-addons/categories-management
+	url = git@github.com:exo-addons/categories-management.git
+[submodule "exo-addons/ideation"]
+	path = exo-addons/ideation
+	url = git@github.com:exo-addons/ideation.git
+[submodule "exo-addons/github-integration"]
+	path = exo-addons/github-integration
+	url = git@github.com:exo-addons/github-integration.git
+[submodule "exo-addons/activity-composer-configuration"]
+	path = exo-addons/activity-composer-configuration
+	url = git@github.com:exo-addons/activity-composer-configuration.git
+[submodule "exo-addons/image-recognition"]
+	path = exo-addons/image-recognition
+	url = git@github.com:exo-addons/image-recognition.git
+[submodule "exo-addons/ethereum-wallet"]
+	path = exo-addons/ethereum-wallet
+	url = git@github.com:exo-addons/ethereum-wallet.git
+[submodule "exo-addons/catalog-viewer"]
+	path = exo-addons/catalog-viewer
+	url = git@github.com:exo-addons/catalog-viewer.git
+[submodule "exo-addons/smart-activity-stream"]
+	path = exo-addons/smart-activity-stream
+	url = git@github.com:exo-addons/smart-activity-stream.git
+[submodule "exo-addons/highlight-spaces"]
+	path = exo-addons/highlight-spaces
+	url = git@github.com:exo-addons/highlight-spaces.git
+[submodule "exo-addons/learning"]
+	path = exo-addons/learning
+	url = git@github.com:exo-addons/learning.git
+[submodule "exo-addons/demo-cms-templates"]
+	path = exo-addons/demo-cms-templates
+	url = git@github.com:exo-addons/demo-cms-templates.git
+[submodule "exo-addons/functional-configuration"]
+	path = exo-addons/functional-configuration
+	url = git@github.com:exo-addons/functional-configuration.git
+[submodule "exo-addons/office-online"]
+	path = exo-addons/office-online
+	url = git@github.com:exo-addons/office-online.git
+[submodule "exo-addons/lead-capture"]
+	path = exo-addons/lead-capture
+	url = git@github.com:exo-addons/lead-capture.git
+[submodule "exo-addons/time-tracker"]
+	path = exo-addons/time-tracker
+	url = git@github.com:exo-addons/time-tracker.git
+[submodule "exo-addons/jitsi-call"]
+	path = exo-addons/jitsi-call
+	url = git@github.com:exo-addons/jitsi-call.git
