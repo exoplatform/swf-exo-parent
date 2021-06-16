@@ -1,6 +1,9 @@
 [submodule "Meeds-io/gatein-portal"]
 	path = Meeds-io/gatein-portal
 	url = git@github.com:Meeds-io/gatein-portal.git
+[submodule "Meeds-io/notes"]
+	path = Meeds-io/notes
+	url = git@github.com:Meeds-io/notes.git
 [submodule "Meeds-io/cf-parent"]
 	path = Meeds-io/cf-parent
 	url = git@github.com:Meeds-io/cf-parent.git
