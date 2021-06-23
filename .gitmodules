@@ -1258,3 +1258,48 @@
 [submodule "exo-addons/jitsi-call"]
 	path = exo-addons/jitsi-call
 	url = git@github.com:exo-addons/jitsi-call.git
+[submodule "Meeds-io/eslint-config-meedsio"]
+	path = Meeds-io/eslint-config-meedsio
+	url = git@github.com:Meeds-io/eslint-config-meedsio.git
+[submodule "exo-addons/write-in-ldap"]
+	path = exo-addons/write-in-ldap
+	url = git@github.com:exo-addons/write-in-ldap.git
+[submodule "exo-addons/mfa-oidc"]
+	path = exo-addons/mfa-oidc
+	url = git@github.com:exo-addons/mfa-oidc.git
+[submodule "exo-addons/mfa-fido"]
+	path = exo-addons/mfa-fido
+	url = git@github.com:exo-addons/mfa-fido.git
+[submodule "exoplatform/platform-qa"]
+	path = exoplatform/platform-qa
+	url = git@github.com:exoplatform/platform-qa.git
+[submodule "exoplatform/jitsi"]
+	path = exoplatform/jitsi
+	url = git@github.com:exoplatform/jitsi.git
+[submodule "exoplatform/analytics"]
+	path = exoplatform/analytics
+	url = git@github.com:exoplatform/analytics.git
+[submodule "exoplatform/jitsi-call"]
+	path = exoplatform/jitsi-call
+	url = git@github.com:exoplatform/jitsi-call.git
+[submodule "exoplatform/infrak8s"]
+	path = exoplatform/infrak8s
+	url = git@github.com:exoplatform/infrak8s.git
+[submodule "exoplatform/platform-qa-tribe"]
+	path = exoplatform/platform-qa-tribe
+	url = git@github.com:exoplatform/platform-qa-tribe.git
+[submodule "exo-samples/sample-dynamic-container"]
+	path = exo-samples/sample-dynamic-container
+	url = git@github.com:exo-samples/sample-dynamic-container.git
+[submodule "exo-samples/docs-samples"]
+	path = exo-samples/docs-samples
+	url = git@github.com:exo-samples/docs-samples.git
+[submodule "exo-samples/sample-for-SWF-3974"]
+	path = exo-samples/sample-for-SWF-3974
+	url = git@github.com:exo-samples/sample-for-SWF-3974.git
+[submodule "exo-samples/exo-ldap"]
+	path = exo-samples/exo-ldap
+	url = git@github.com:exo-samples/exo-ldap.git
+[submodule "exo-docker/docker-jitsi-meet"]
+	path = exo-docker/docker-jitsi-meet
+	url = git@github.com:exo-docker/docker-jitsi-meet.git
