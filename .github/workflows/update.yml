@@ -29,6 +29,10 @@ jobs:
         git pull --recurse-submodules
         git submodule update --remote --recursive
 
+    - name: Pull Submodules
+      run: |
+        git submodule foreach "git checkout develop 2>/dev/null || git checkout master; git pull || :"
+  
     - name: Commit update
       run: |
         git config --global user.name 'eXo Software Factory'
