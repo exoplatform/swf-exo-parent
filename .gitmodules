@@ -1303,3 +1303,36 @@
 [submodule "exo-docker/docker-jitsi-meet"]
 	path = exo-docker/docker-jitsi-meet
 	url = git@github.com:exo-docker/docker-jitsi-meet.git
+[submodule "Meeds-io/.github"]
+	path = Meeds-io/.github
+	url = git@github.com:Meeds-io/.github.git
+[submodule "Meeds-io/deeds-dapp"]
+	path = Meeds-io/deeds-dapp
+	url = git@github.com:Meeds-io/deeds-dapp.git
+[submodule "Meeds-io/challenges"]
+	path = Meeds-io/challenges
+	url = git@github.com:Meeds-io/challenges.git
+[submodule "exo-addons/.github"]
+	path = exo-addons/.github
+	url = git@github.com:exo-addons/.github.git
+[submodule "exoplatform/multifactor-authentication"]
+	path = exoplatform/multifactor-authentication
+	url = git@github.com:exoplatform/multifactor-authentication.git
+[submodule "exoplatform/.github"]
+	path = exoplatform/.github
+	url = git@github.com:exoplatform/.github.git
+[submodule "exoplatform/exo-tribe"]
+	path = exoplatform/exo-tribe
+	url = git@github.com:exoplatform/exo-tribe.git
+[submodule "exoplatform/gdrive-importer"]
+	path = exoplatform/gdrive-importer
+	url = git@github.com:exoplatform/gdrive-importer.git
+[submodule "exoplatform/documents"]
+	path = exoplatform/documents
+	url = git@github.com:exoplatform/documents.git
+[submodule "exoplatform/automatic-translation"]
+	path = exoplatform/automatic-translation
+	url = git@github.com:exoplatform/automatic-translation.git
+[submodule "exo-docker/cloudbeaver"]
+	path = exo-docker/cloudbeaver
+	url = git@github.com:exo-docker/cloudbeaver.git
