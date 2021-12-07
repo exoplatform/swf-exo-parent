@@ -23,13 +23,7 @@ jobs:
         scripts/clone_all_submodules.sh || :
       env:
         GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
-    # Update references
-    - name: Git Sumbodule Update
-      run: |
-        git submodule sync
-        git pull --recurse-submodules
-        git submodule update --remote --recursive
-  
+
     - name: Commit update
       run: |
         git config --global user.name 'eXo Software Factory'
