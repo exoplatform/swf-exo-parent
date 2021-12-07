@@ -37,7 +37,13 @@ initalize_submodules() {
 create_submodule() {
     org=$(echo $1 | grep -o -P '(?<=github.com:).*(?=/)')
     repo=$(echo $1 | grep -o -P '(?<=/).*(?=.git)')
-    git submodule add $1 $org/$repo
+    if [ -z "$(git ls-remote git@github.com:$org/$repo)" ]; then
+        if [ -d $org/$repo ]; then
+          delete_submodule $org/$repo
+        fi
+    else
+        git submodule add $1 $org/$repo
+    fi
 }
 
 create_submodules() {
@@ -45,6 +51,14 @@ create_submodules() {
     for i in $SSH_MODULES; do
         create_submodule $i 
     done
+}
+
+delete_submodule(){
+    sed -i -e "/${1////\\/}/,+2d" .gitmodules
+    git add .gitmodules
+    sed -i -e "/${1////\\/}/,+2d" .git/config
+    git rm --cached $1
+    rm -rf .git/modules/$1
 }
 
 initalize_submodules
