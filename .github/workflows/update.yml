@@ -26,15 +26,10 @@ jobs:
     # Update references
     - name: Git Sumbodule Update
       run: |
+        git submodule init
+        git submodule sync
         git pull --recurse-submodules
         git submodule update --remote --recursive
-
-    - name: Pull Submodules
-      run: |
-        git submodule init ||:
-        git submodule sync ||:
-        git submodule update ||:
-        git submodule foreach "git checkout develop 2>/dev/null || git checkout master; git pull || :" ||:
   
     - name: Commit update
       run: |

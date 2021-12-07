@@ -57,9 +57,7 @@ delete_submodule(){
 prune_submodules(){
     list=$(git config --file .gitmodules --get-regexp path | awk '{ print $2 }' | xargs)
     for item in ${list}; do
-        if [ -z "$(git ls-remote git@github.com:$item)" ] && [ -d $item ]; then
-            delete_submodule $item
-        fi
+        delete_submodule $item
     done
 }
 prune_submodules
