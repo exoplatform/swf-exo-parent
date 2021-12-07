@@ -31,9 +31,9 @@ jobs:
 
     - name: Pull Submodules
       run: |
-        git submodule init
-        git submodule sync
-        git submodule update
+        git submodule init ||:
+        git submodule sync ||:
+        git submodule update ||:
         git submodule foreach "git checkout develop 2>/dev/null || git checkout master; git pull || :" ||:
   
     - name: Commit update
