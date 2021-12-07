@@ -28,4 +28,5 @@ jobs:
       run: |
         git config --global user.name 'eXo Software Factory'
         git config --global user.email 'exo-swf@exoplatform.com'
-        git commit -am "Auto updated submodule references $(date +%d-%m-%Y)" && git push || echo "No changes to commit"
+        git add -A
+        git commit -m "Auto updated submodule references $(date +%d-%m-%Y)" && git push || echo "No changes to commit"
