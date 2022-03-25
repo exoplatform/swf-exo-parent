@@ -79,9 +79,9 @@
 [submodule "Meeds-io/meeds-docker"]
 	path = Meeds-io/meeds-docker
 	url = git@github.com:Meeds-io/meeds-docker.git
-[submodule "Meeds-io/gamification-connectors"]
-	path = Meeds-io/gamification-connectors
-	url = git@github.com:Meeds-io/gamification-connectors.git
+[submodule "Meeds-io/gamification-github"]
+	path = Meeds-io/gamification-github
+	url = git@github.com:Meeds-io/gamification-github.git
 [submodule "exoplatform/analytics-download-gadget"]
 	path = exoplatform/analytics-download-gadget
 	url = git@github.com:exoplatform/analytics-download-gadget.git
