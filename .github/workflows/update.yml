@@ -1,0 +1,44 @@
+name: Update Submodules
+on:
+  schedule:
+    - cron:  '0 4 * * *' # Everyday at 4 AM UTC
+  workflow_dispatch:
+
+jobs:
+
+  fetch-submodules:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup prerequisites 
+      run: sudo apt-get -qq update && sudo apt-get -qq install -y git-extras
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        ssh-key: ${{ secrets.SSH_KEY }}
+    - name: Fetch Submodules
+      run: |
+        scripts/clone_all_submodules.sh
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    - name: Commit update
+      run: |
+        git config --global user.name 'eXo Software Factory'
+        git config --global user.email 'exo-swf@exoplatform.com'
+        git add -A
+        git commit -m "Auto updated submodule references $(date +%d-%m-%Y)" && git push || echo "No changes to commit"
+  
+  update-submodules:
+    needs: fetch-submodules
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        ssh-key: ${{ secrets.SSH_KEY }}
+        submodules: true
+    - name: Update Submodules commits
+      run: |
+        git config --global user.name 'eXo Software Factory'
+        git config --global user.email 'exo-swf@exoplatform.com'
+        scripts/update_all_submodules.sh
