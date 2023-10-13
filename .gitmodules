@@ -238,9 +238,6 @@
 [submodule "exoplatform/maven-sandbox-project"]
 	path = exoplatform/maven-sandbox-project
 	url = git@github.com:exoplatform/maven-sandbox-project.git
-[submodule "exoplatform/forum"]
-	path = exoplatform/forum
-	url = git@github.com:exoplatform/forum.git
 [submodule "exoplatform/cp-cct"]
 	path = exoplatform/cp-cct
 	url = git@github.com:exoplatform/cp-cct.git
@@ -439,9 +436,6 @@
 [submodule "exoplatform/qa-gatling-performance"]
 	path = exoplatform/qa-gatling-performance
 	url = git@github.com:exoplatform/qa-gatling-performance.git
-[submodule "exoplatform/customer-space"]
-	path = exoplatform/customer-space
-	url = git@github.com:exoplatform/customer-space.git
 [submodule "exoplatform/clirr-maven-plugin"]
 	path = exoplatform/clirr-maven-plugin
 	url = git@github.com:exoplatform/clirr-maven-plugin.git
