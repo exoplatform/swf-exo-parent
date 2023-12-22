@@ -1006,9 +1006,6 @@
 [submodule "exo-addons/linotp"]
 	path = exo-addons/linotp
 	url = git@github.com:exo-addons/linotp.git
-[submodule "exo-addons/rh-requests-management"]
-	path = exo-addons/rh-requests-management
-	url = git@github.com:exo-addons/rh-requests-management.git
 [submodule "exo-addons/photo-localization"]
 	path = exo-addons/photo-localization
 	url = git@github.com:exo-addons/photo-localization.git
