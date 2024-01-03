@@ -70,9 +70,6 @@
 [submodule "Meeds-io/meeds-docker"]
 	path = Meeds-io/meeds-docker
 	url = git@github.com:Meeds-io/meeds-docker.git
-[submodule "exoplatform/analytics-download-gadget"]
-	path = exoplatform/analytics-download-gadget
-	url = git@github.com:exoplatform/analytics-download-gadget.git
 [submodule "exoplatform/sugarcrm-exosocial"]
 	path = exoplatform/sugarcrm-exosocial
 	url = git@github.com:exoplatform/sugarcrm-exosocial.git
@@ -82,9 +79,6 @@
 [submodule "exoplatform/staxnav"]
 	path = exoplatform/staxnav
 	url = git@github.com:exoplatform/staxnav.git
-[submodule "exoplatform/chromattic"]
-	path = exoplatform/chromattic
-	url = git@github.com:exoplatform/chromattic.git
 [submodule "exoplatform/statusdashboard"]
 	path = exoplatform/statusdashboard
 	url = git@github.com:exoplatform/statusdashboard.git
@@ -97,9 +91,6 @@
 [submodule "exoplatform/developer.exoplatform.org"]
 	path = exoplatform/developer.exoplatform.org
 	url = git@github.com:exoplatform/developer.exoplatform.org.git
-[submodule "exoplatform/apache-pdfbox"]
-	path = exoplatform/apache-pdfbox
-	url = git@github.com:exoplatform/apache-pdfbox.git
 [submodule "exoplatform/adt"]
 	path = exoplatform/adt
 	url = git@github.com:exoplatform/adt.git
@@ -109,42 +100,12 @@
 [submodule "exoplatform/qa-jmxtrans"]
 	path = exoplatform/qa-jmxtrans
 	url = git@github.com:exoplatform/qa-jmxtrans.git
-[submodule "exoplatform/cloud-ide"]
-	path = exoplatform/cloud-ide
-	url = git@github.com:exoplatform/cloud-ide.git
-[submodule "exoplatform/cloud"]
-	path = exoplatform/cloud
-	url = git@github.com:exoplatform/cloud.git
-[submodule "exoplatform/cross-access"]
-	path = exoplatform/cross-access
-	url = git@github.com:exoplatform/cross-access.git
 [submodule "exoplatform/mobile-server-extension"]
 	path = exoplatform/mobile-server-extension
 	url = git@github.com:exoplatform/mobile-server-extension.git
-[submodule "exoplatform/doc-website"]
-	path = exoplatform/doc-website
-	url = git@github.com:exoplatform/doc-website.git
-[submodule "exoplatform/cloud-workspaces"]
-	path = exoplatform/cloud-workspaces
-	url = git@github.com:exoplatform/cloud-workspaces.git
-[submodule "exoplatform/platform-cloud"]
-	path = exoplatform/platform-cloud
-	url = git@github.com:exoplatform/platform-cloud.git
-[submodule "exoplatform/infocenter-custo"]
-	path = exoplatform/infocenter-custo
-	url = git@github.com:exoplatform/infocenter-custo.git
 [submodule "exoplatform/qa-website-extension"]
 	path = exoplatform/qa-website-extension
 	url = git@github.com:exoplatform/qa-website-extension.git
-[submodule "exoplatform/benchmark-reporting"]
-	path = exoplatform/benchmark-reporting
-	url = git@github.com:exoplatform/benchmark-reporting.git
-[submodule "exoplatform/benchmark-scripts"]
-	path = exoplatform/benchmark-scripts
-	url = git@github.com:exoplatform/benchmark-scripts.git
-[submodule "exoplatform/dev-resources"]
-	path = exoplatform/dev-resources
-	url = git@github.com:exoplatform/dev-resources.git
 [submodule "exoplatform/jcr-docs-style"]
 	path = exoplatform/jcr-docs-style
 	url = git@github.com:exoplatform/jcr-docs-style.git
@@ -202,27 +163,12 @@
 [submodule "exoplatform/qa-selenium-automation"]
 	path = exoplatform/qa-selenium-automation
 	url = git@github.com:exoplatform/qa-selenium-automation.git
-[submodule "exoplatform/company-intranet"]
-	path = exoplatform/company-intranet
-	url = git@github.com:exoplatform/company-intranet.git
-[submodule "exoplatform/gwtframework"]
-	path = exoplatform/gwtframework
-	url = git@github.com:exoplatform/gwtframework.git
-[submodule "exoplatform/cmis-expert"]
-	path = exoplatform/cmis-expert
-	url = git@github.com:exoplatform/cmis-expert.git
 [submodule "exoplatform/qa-data-repository"]
 	path = exoplatform/qa-data-repository
 	url = git@github.com:exoplatform/qa-data-repository.git
 [submodule "exoplatform/ecms"]
 	path = exoplatform/ecms
 	url = git@github.com:exoplatform/ecms.git
-[submodule "exoplatform/cs"]
-	path = exoplatform/cs
-	url = git@github.com:exoplatform/cs.git
-[submodule "exoplatform/ide"]
-	path = exoplatform/ide
-	url = git@github.com:exoplatform/ide.git
 [submodule "exoplatform/jcr"]
 	path = exoplatform/jcr
 	url = git@github.com:exoplatform/jcr.git
@@ -259,24 +205,15 @@
 [submodule "exoplatform/swf-scripts"]
 	path = exoplatform/swf-scripts
 	url = git@github.com:exoplatform/swf-scripts.git
-[submodule "exoplatform/cross-dom-qa-report"]
-	path = exoplatform/cross-dom-qa-report
-	url = git@github.com:exoplatform/cross-dom-qa-report.git
 [submodule "exoplatform/ui-test"]
 	path = exoplatform/ui-test
 	url = git@github.com:exoplatform/ui-test.git
 [submodule "exoplatform/ux-guidelines"]
 	path = exoplatform/ux-guidelines
 	url = git@github.com:exoplatform/ux-guidelines.git
-[submodule "exoplatform/extension-tutorial"]
-	path = exoplatform/extension-tutorial
-	url = git@github.com:exoplatform/extension-tutorial.git
 [submodule "exoplatform/qa-gdash-config"]
 	path = exoplatform/qa-gdash-config
 	url = git@github.com:exoplatform/qa-gdash-config.git
-[submodule "exoplatform/benchmarks-viewer"]
-	path = exoplatform/benchmarks-viewer
-	url = git@github.com:exoplatform/benchmarks-viewer.git
 [submodule "exoplatform/platform-documentation"]
 	path = exoplatform/platform-documentation
 	url = git@github.com:exoplatform/platform-documentation.git
@@ -289,9 +226,6 @@
 [submodule "exoplatform/xcmis"]
 	path = exoplatform/xcmis
 	url = git@github.com:exoplatform/xcmis.git
-[submodule "exoplatform/ecp"]
-	path = exoplatform/ecp
-	url = git@github.com:exoplatform/ecp.git
 [submodule "exoplatform/infra-jenkins-config"]
 	path = exoplatform/infra-jenkins-config
 	url = git@github.com:exoplatform/infra-jenkins-config.git
@@ -337,12 +271,6 @@
 [submodule "exoplatform/cp-bluebook-network-intranet"]
 	path = exoplatform/cp-bluebook-network-intranet
 	url = git@github.com:exoplatform/cp-bluebook-network-intranet.git
-[submodule "exoplatform/acme-sample"]
-	path = exoplatform/acme-sample
-	url = git@github.com:exoplatform/acme-sample.git
-[submodule "exoplatform/cmis-addon"]
-	path = exoplatform/cmis-addon
-	url = git@github.com:exoplatform/cmis-addon.git
 [submodule "exoplatform/wai-sample"]
 	path = exoplatform/wai-sample
 	url = git@github.com:exoplatform/wai-sample.git
@@ -361,12 +289,6 @@
 [submodule "exoplatform/spnego-addon"]
 	path = exoplatform/spnego-addon
 	url = git@github.com:exoplatform/spnego-addon.git
-[submodule "exoplatform/exo-cloud"]
-	path = exoplatform/exo-cloud
-	url = git@github.com:exoplatform/exo-cloud.git
-[submodule "exoplatform/answers"]
-	path = exoplatform/answers
-	url = git@github.com:exoplatform/answers.git
 [submodule "exoplatform/saml2-addon"]
 	path = exoplatform/saml2-addon
 	url = git@github.com:exoplatform/saml2-addon.git
@@ -388,9 +310,6 @@
 [submodule "exoplatform/infra-doc"]
 	path = exoplatform/infra-doc
 	url = git@github.com:exoplatform/infra-doc.git
-[submodule "exoplatform/buy-exo-enterprise"]
-	path = exoplatform/buy-exo-enterprise
-	url = git@github.com:exoplatform/buy-exo-enterprise.git
 [submodule "exoplatform/puppet-buy"]
 	path = exoplatform/puppet-buy
 	url = git@github.com:exoplatform/puppet-buy.git
@@ -418,15 +337,9 @@
 [submodule "exoplatform/portal-tokens-tools"]
 	path = exoplatform/portal-tokens-tools
 	url = git@github.com:exoplatform/portal-tokens-tools.git
-[submodule "exoplatform/google-apps-backup"]
-	path = exoplatform/google-apps-backup
-	url = git@github.com:exoplatform/google-apps-backup.git
 [submodule "exoplatform/swf-jenkins-config"]
 	path = exoplatform/swf-jenkins-config
 	url = git@github.com:exoplatform/swf-jenkins-config.git
-[submodule "exoplatform/addon-project-template"]
-	path = exoplatform/addon-project-template
-	url = git@github.com:exoplatform/addon-project-template.git
 [submodule "exoplatform/jcabi-maven-plugin"]
 	path = exoplatform/jcabi-maven-plugin
 	url = git@github.com:exoplatform/jcabi-maven-plugin.git
@@ -436,9 +349,6 @@
 [submodule "exoplatform/qa-gatling-performance"]
 	path = exoplatform/qa-gatling-performance
 	url = git@github.com:exoplatform/qa-gatling-performance.git
-[submodule "exoplatform/clirr-maven-plugin"]
-	path = exoplatform/clirr-maven-plugin
-	url = git@github.com:exoplatform/clirr-maven-plugin.git
 [submodule "exoplatform/swf-release-manager"]
 	path = exoplatform/swf-release-manager
 	url = git@github.com:exoplatform/swf-release-manager.git
@@ -466,12 +376,6 @@
 [submodule "exoplatform/cp-astia"]
 	path = exoplatform/cp-astia
 	url = git@github.com:exoplatform/cp-astia.git
-[submodule "exoplatform/eclipse-help-webapp"]
-	path = exoplatform/eclipse-help-webapp
-	url = git@github.com:exoplatform/eclipse-help-webapp.git
-[submodule "exoplatform/bench-lab"]
-	path = exoplatform/bench-lab
-	url = git@github.com:exoplatform/bench-lab.git
 [submodule "exoplatform/platform-ui-automation-test"]
 	path = exoplatform/platform-ui-automation-test
 	url = git@github.com:exoplatform/platform-ui-automation-test.git
@@ -499,9 +403,6 @@
 [submodule "exoplatform/cp-aerov"]
 	path = exoplatform/cp-aerov
 	url = git@github.com:exoplatform/cp-aerov.git
-[submodule "exoplatform/community-website-ui-test"]
-	path = exoplatform/community-website-ui-test
-	url = git@github.com:exoplatform/community-website-ui-test.git
 [submodule "exoplatform/web-conferencing"]
 	path = exoplatform/web-conferencing
 	url = git@github.com:exoplatform/web-conferencing.git
@@ -511,9 +412,6 @@
 [submodule "exoplatform/qa-w3af-auto"]
 	path = exoplatform/qa-w3af-auto
 	url = git@github.com:exoplatform/qa-w3af-auto.git
-[submodule "exoplatform/data-injection-lib"]
-	path = exoplatform/data-injection-lib
-	url = git@github.com:exoplatform/data-injection-lib.git
 [submodule "exoplatform/cp-atisnetwork-android"]
 	path = exoplatform/cp-atisnetwork-android
 	url = git@github.com:exoplatform/cp-atisnetwork-android.git
@@ -523,9 +421,6 @@
 [submodule "exoplatform/cp-cd95"]
 	path = exoplatform/cp-cd95
 	url = git@github.com:exoplatform/cp-cd95.git
-[submodule "exoplatform/banner-samples"]
-	path = exoplatform/banner-samples
-	url = git@github.com:exoplatform/banner-samples.git
 [submodule "exoplatform/monitoring-stack"]
 	path = exoplatform/monitoring-stack
 	url = git@github.com:exoplatform/monitoring-stack.git
@@ -589,15 +484,9 @@
 [submodule "exoplatform/legacy-intranet"]
 	path = exoplatform/legacy-intranet
 	url = git@github.com:exoplatform/legacy-intranet.git
-[submodule "exoplatform/app-center"]
-	path = exoplatform/app-center
-	url = git@github.com:exoplatform/app-center.git
 [submodule "exoplatform/data-upgrade"]
 	path = exoplatform/data-upgrade
 	url = git@github.com:exoplatform/data-upgrade.git
-[submodule "exoplatform/diff-extension-maven-plugin"]
-	path = exoplatform/diff-extension-maven-plugin
-	url = git@github.com:exoplatform/diff-extension-maven-plugin.git
 [submodule "exoplatform/puppet-config"]
 	path = exoplatform/puppet-config
 	url = git@github.com:exoplatform/puppet-config.git
@@ -619,24 +508,12 @@
 [submodule "exoplatform/cp-aefinfo"]
 	path = exoplatform/cp-aefinfo
 	url = git@github.com:exoplatform/cp-aefinfo.git
-[submodule "exoplatform/clientsolutions"]
-	path = exoplatform/clientsolutions
-	url = git@github.com:exoplatform/clientsolutions.git
 [submodule "exoplatform/swf-exo-parent"]
 	path = exoplatform/swf-exo-parent
 	url = git@github.com:exoplatform/swf-exo-parent.git
 [submodule "exoplatform/cp-weishardt"]
 	path = exoplatform/cp-weishardt
 	url = git@github.com:exoplatform/cp-weishardt.git
-[submodule "exoplatform/cp-naftogaz-android"]
-	path = exoplatform/cp-naftogaz-android
-	url = git@github.com:exoplatform/cp-naftogaz-android.git
-[submodule "exoplatform/cp-naftogaz-ios"]
-	path = exoplatform/cp-naftogaz-ios
-	url = git@github.com:exoplatform/cp-naftogaz-ios.git
-[submodule "exoplatform/cp-naftogaz-ios-certificates"]
-	path = exoplatform/cp-naftogaz-ios-certificates
-	url = git@github.com:exoplatform/cp-naftogaz-ios-certificates.git
 [submodule "exoplatform/agenda"]
 	path = exoplatform/agenda
 	url = git@github.com:exoplatform/agenda.git
