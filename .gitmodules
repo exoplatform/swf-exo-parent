@@ -1126,9 +1126,6 @@
 [submodule "exoplatform/commons-exo"]
 	path = exoplatform/commons-exo
 	url = git@github.com:exoplatform/commons-exo.git
-[submodule "exoplatform/puppet-parser-validate-action"]
-	path = exoplatform/puppet-parser-validate-action
-	url = git@github.com:exoplatform/puppet-parser-validate-action.git
 [submodule "exo-docker/crowd"]
 	path = exo-docker/crowd
 	url = git@github.com:exo-docker/crowd.git
