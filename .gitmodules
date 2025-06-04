@@ -1,6 +1,3 @@
-[submodule "Meeds-io/gatein-portal"]
-	path = Meeds-io/gatein-portal
-	url = git@github.com:Meeds-io/gatein-portal.git
 [submodule "Meeds-io/notes"]
 	path = Meeds-io/notes
 	url = git@github.com:Meeds-io/notes.git
@@ -40,9 +37,6 @@
 [submodule "Meeds-io/gatein-sso"]
 	path = Meeds-io/gatein-sso
 	url = git@github.com:Meeds-io/gatein-sso.git
-[submodule "Meeds-io/gatein-pc"]
-	path = Meeds-io/gatein-pc
-	url = git@github.com:Meeds-io/gatein-pc.git
 [submodule "Meeds-io/ws"]
 	path = Meeds-io/ws
 	url = git@github.com:Meeds-io/ws.git
