@@ -12,7 +12,7 @@ jobs:
     - name: Setup prerequisites 
       run: sudo apt-get -qq update && sudo apt-get -qq install -y git-extras
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ssh-key: ${{ secrets.SSH_KEY }}
     - name: Fetch Submodules
@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         ssh-key: ${{ secrets.SSH_KEY }}
         submodules: true
