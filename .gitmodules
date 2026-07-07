@@ -229,9 +229,6 @@
 [submodule "exoplatform/platform-private-distributions"]
 	path = exoplatform/platform-private-distributions
 	url = git@github.com:exoplatform/platform-private-distributions.git
-[submodule "exoplatform/puppet-srv-cfg"]
-	path = exoplatform/puppet-srv-cfg
-	url = git@github.com:exoplatform/puppet-srv-cfg.git
 [submodule "exoplatform/puppet-intranet"]
 	path = exoplatform/puppet-intranet
 	url = git@github.com:exoplatform/puppet-intranet.git
