@@ -937,9 +937,6 @@
 [submodule "Meeds-io/MIPs"]
 	path = Meeds-io/MIPs
 	url = git@github.com:Meeds-io/MIPs.git
-[submodule "Meeds-io/meeds-qa-ui"]
-	path = Meeds-io/meeds-qa-ui
-	url = git@github.com:Meeds-io/meeds-qa-ui.git
 [submodule "exo-docker/exo-community"]
 	path = exo-docker/exo-community
 	url = git@github.com:exo-docker/exo-community.git
